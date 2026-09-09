@@ -1,20 +1,14 @@
 import type { Metadata } from 'next';
-import { Geist, Geist_Mono } from 'next/font/google';
 import './globals.css';
 
-const geistSans = Geist({
-  variable: '--font-geist-sans',
-  subsets: ['latin'],
-});
-
-const geistMono = Geist_Mono({
-  variable: '--font-geist-mono',
-  subsets: ['latin'],
-});
-
 export const metadata: Metadata = {
-  title: 'SR Paper List | Robot Learning in Science Robotics',
-  description: 'Explore robot learning research from Science Robotics, 2024–2026, by task, method, and cover features.',
+  title: 'SR Papers | Robot learning in Science Robotics',
+  description:
+    'Every learning-based robotics paper in Science Robotics, January 2020 to September 2026, tagged by task and by learning method.',
+};
+
+export const viewport = {
+  themeColor: '#f2f2f7',
 };
 
 export default function RootLayout({
@@ -24,11 +18,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
-      </body>
+      <body className="antialiased">{children}</body>
     </html>
   );
 }

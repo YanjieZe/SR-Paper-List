@@ -1,46 +1,5 @@
 [
   {
-    "title": "Robot in a crib: How a playing robot helps us understand sensorimotor contingency learning",
-    "doi": "10.1126/scirobotics.aed4106",
-    "date": "2026-08-26",
-    "authors": [
-      "Josua Spisak",
-      "Sergiu Tcaci Popescu",
-      "Lukas Rustler",
-      "Stefan Wermter",
-      "J Kevin O'Regan",
-      "Matej Hoffmann"
-    ],
-    "volume": "11",
-    "issue": "117",
-    "domains": [
-      "Human–Robot Interaction",
-      "Control"
-    ],
-    "methods": [
-      "Self-Supervised Learning",
-      "Developmental Learning"
-    ],
-    "type": "Research Article",
-    "summary": "Uses prediction and curiosity in an embodied humanoid to study how action–sensation relationships emerge.",
-    "cover": {
-      "status": "pending",
-      "sources": []
-    },
-    "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.aed4106"
-    },
-    "sources": [
-      "https://europepmc.org/article/MED/42647591",
-      "https://api.crossref.org/works/10.1126/scirobotics.aed4106"
-    ],
-    "verification": {
-      "metadata": "Europe PMC; Crossref",
-      "relevance": "Author abstract screened",
-      "cover": "Not yet verified"
-    }
-  },
-  {
     "title": "BeyondMimic: From motion tracking to versatile humanoid control via guided diffusion",
     "doi": "10.1126/scirobotics.adx8924",
     "date": "2026-08-26",
@@ -90,43 +49,39 @@
     }
   },
   {
-    "title": "Learning vision-driven reactive soccer skills for humanoid robots",
-    "doi": "10.1126/scirobotics.aed1152",
-    "date": "2026-08-19",
+    "title": "Robot in a crib: How a playing robot helps us understand sensorimotor contingency learning",
+    "doi": "10.1126/scirobotics.aed4106",
+    "date": "2026-08-26",
     "authors": [
-      "Yushi Wang",
-      "Changsheng Luo",
-      "Penghui Chen",
-      "Jianran Liu",
-      "Weijian Sun",
-      "Tong Guo",
-      "Kechang Yang",
-      "Biao Hu",
-      "Yangang Zhang",
-      "Mingguo Zhao"
+      "Josua Spisak",
+      "Sergiu Tcaci Popescu",
+      "Lukas Rustler",
+      "Stefan Wermter",
+      "J Kevin O'Regan",
+      "Matej Hoffmann"
     ],
     "volume": "11",
     "issue": "117",
     "domains": [
-      "Locomotion",
-      "Perception",
+      "Human–Robot Interaction",
       "Control"
     ],
     "methods": [
-      "Reinforcement Learning"
+      "Self-Supervised Learning",
+      "Developmental Learning"
     ],
     "type": "Research Article",
-    "summary": "Trains an onboard vision-driven soccer controller that remains reactive under perceptual noise and detection failures.",
+    "summary": "Uses prediction and curiosity in an embodied humanoid to study how action–sensation relationships emerge.",
     "cover": {
       "status": "pending",
       "sources": []
     },
     "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.aed1152"
+      "paper": "https://doi.org/10.1126/scirobotics.aed4106"
     },
     "sources": [
-      "https://europepmc.org/article/MED/42616830",
-      "https://api.crossref.org/works/10.1126/scirobotics.aed1152"
+      "https://europepmc.org/article/MED/42647591",
+      "https://api.crossref.org/works/10.1126/scirobotics.aed4106"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -184,63 +139,43 @@
     }
   },
   {
-    "title": "ZEST: Zero-shot embodied skill transfer for athletic robot control",
-    "doi": "10.1126/scirobotics.aec7695",
-    "date": "2026-08-12",
+    "title": "Learning vision-driven reactive soccer skills for humanoid robots",
+    "doi": "10.1126/scirobotics.aed1152",
+    "date": "2026-08-19",
     "authors": [
-      "Jean Pierre Sleiman",
-      "He Li",
-      "Alphonsus Adu-Bredu",
-      "Robin Deits",
-      "Arun Kumar",
-      "Kevin Bergamin",
-      "Mohak Bhardwaj",
-      "Scott Biddlestone",
-      "Nicola Burger",
-      "Matthew A Estrada",
-      "Francesco Iacobelli",
-      "Twan Koolen",
-      "Alexander Lambert",
-      "Erica Lin",
-      "M Eva Mungai",
-      "Zach Nobles",
-      "Shane Rozen-Levy",
-      "Yuyao Shi",
-      "Jiashun Wang",
-      "Jakob Welner",
-      "Fangzhou Yu",
-      "Mike Zhang",
-      "Alfred Rizzi",
-      "Jessica Hodgins",
-      "Sylvain Bertrand",
-      "Yeuhi Abe",
-      "Scott Kuindersma",
-      "Farbod Farshidian"
+      "Yushi Wang",
+      "Changsheng Luo",
+      "Penghui Chen",
+      "Jianran Liu",
+      "Weijian Sun",
+      "Tong Guo",
+      "Kechang Yang",
+      "Biao Hu",
+      "Yangang Zhang",
+      "Mingguo Zhao"
     ],
     "volume": "11",
     "issue": "117",
     "domains": [
       "Locomotion",
+      "Perception",
       "Control"
     ],
     "methods": [
-      "Reinforcement Learning",
-      "Other Imitation Learning"
+      "Reinforcement Learning"
     ],
     "type": "Research Article",
-    "summary": "Transfers athletic motions from capture, video, and animation to different robot bodies without per-skill tuning.",
+    "summary": "Trains an onboard vision-driven soccer controller that remains reactive under perceptual noise and detection failures.",
     "cover": {
       "status": "pending",
       "sources": []
     },
     "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.aec7695",
-      "open": "https://arxiv.org/abs/2602.00401"
+      "paper": "https://doi.org/10.1126/scirobotics.aed1152"
     },
     "sources": [
-      "https://europepmc.org/article/MED/42585282",
-      "https://api.crossref.org/works/10.1126/scirobotics.aec7695",
-      "https://arxiv.org/abs/2602.00401"
+      "https://europepmc.org/article/MED/42616830",
+      "https://api.crossref.org/works/10.1126/scirobotics.aed1152"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -317,36 +252,63 @@
     }
   },
   {
-    "title": "Ultra-wideband radar to measure in vivo muscle forces",
-    "doi": "10.1126/scirobotics.aed5865",
-    "date": "2026-07-29",
+    "title": "ZEST: Zero-shot embodied skill transfer for athletic robot control",
+    "doi": "10.1126/scirobotics.aec7695",
+    "date": "2026-08-12",
     "authors": [
-      "Christopher S Bird",
-      "Antonio P L Bo",
-      "Wei Lu",
-      "Taylor J M Dick"
+      "Jean Pierre Sleiman",
+      "He Li",
+      "Alphonsus Adu-Bredu",
+      "Robin Deits",
+      "Arun Kumar",
+      "Kevin Bergamin",
+      "Mohak Bhardwaj",
+      "Scott Biddlestone",
+      "Nicola Burger",
+      "Matthew A Estrada",
+      "Francesco Iacobelli",
+      "Twan Koolen",
+      "Alexander Lambert",
+      "Erica Lin",
+      "M Eva Mungai",
+      "Zach Nobles",
+      "Shane Rozen-Levy",
+      "Yuyao Shi",
+      "Jiashun Wang",
+      "Jakob Welner",
+      "Fangzhou Yu",
+      "Mike Zhang",
+      "Alfred Rizzi",
+      "Jessica Hodgins",
+      "Sylvain Bertrand",
+      "Yeuhi Abe",
+      "Scott Kuindersma",
+      "Farbod Farshidian"
     ],
     "volume": "11",
-    "issue": "116",
+    "issue": "117",
     "domains": [
-      "Wearable Robotics",
-      "Perception"
+      "Locomotion",
+      "Control"
     ],
     "methods": [
-      "Supervised Learning"
+      "Reinforcement Learning",
+      "Other Imitation Learning"
     ],
     "type": "Research Article",
-    "summary": "Combines radar measurements with learned estimators of muscle force for assistive sensing applications.",
+    "summary": "Transfers athletic motions from capture, video, and animation to different robot bodies without per-skill tuning.",
     "cover": {
       "status": "pending",
       "sources": []
     },
     "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.aed5865"
+      "paper": "https://doi.org/10.1126/scirobotics.aec7695",
+      "open": "https://arxiv.org/abs/2602.00401"
     },
     "sources": [
-      "https://europepmc.org/article/MED/42525726",
-      "https://api.crossref.org/works/10.1126/scirobotics.aed5865"
+      "https://europepmc.org/article/MED/42585282",
+      "https://api.crossref.org/works/10.1126/scirobotics.aec7695",
+      "https://arxiv.org/abs/2602.00401"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -397,43 +359,36 @@
     }
   },
   {
-    "title": "Performant robotic manipulation with real-world reinforcement learning",
-    "doi": "10.1126/scirobotics.aed6267",
-    "date": "2026-07-22",
+    "title": "Ultra-wideband radar to measure in vivo muscle forces",
+    "doi": "10.1126/scirobotics.aed5865",
+    "date": "2026-07-29",
     "authors": [
-      "Kun Lei",
-      "Huanyu Li",
-      "Dongjie Yu",
-      "Zhenyu Wei",
-      "Lingxiao Guo",
-      "Zhennan Jiang",
-      "Ziyu Wang",
-      "Shiyu Liang",
-      "Huazhe Xu"
+      "Christopher S Bird",
+      "Antonio P L Bo",
+      "Wei Lu",
+      "Taylor J M Dick"
     ],
     "volume": "11",
     "issue": "116",
     "domains": [
-      "Manipulation",
-      "Control"
+      "Wearable Robotics",
+      "Perception"
     ],
     "methods": [
-      "Reinforcement Learning",
-      "Behavior Cloning",
-      "Diffusion Models"
+      "Supervised Learning"
     ],
     "type": "Research Article",
-    "summary": "Improves diffusion visuomotor policies through offline and online reinforcement learning, with fast one-step execution.",
+    "summary": "Combines radar measurements with learned estimators of muscle force for assistive sensing applications.",
     "cover": {
       "status": "pending",
       "sources": []
     },
     "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.aed6267"
+      "paper": "https://doi.org/10.1126/scirobotics.aed5865"
     },
     "sources": [
-      "https://europepmc.org/article/MED/42485441",
-      "https://api.crossref.org/works/10.1126/scirobotics.aed6267"
+      "https://europepmc.org/article/MED/42525726",
+      "https://api.crossref.org/works/10.1126/scirobotics.aed5865"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -476,6 +431,51 @@
     "sources": [
       "https://europepmc.org/article/MED/42485442",
       "https://api.crossref.org/works/10.1126/scirobotics.aea7639"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Performant robotic manipulation with real-world reinforcement learning",
+    "doi": "10.1126/scirobotics.aed6267",
+    "date": "2026-07-22",
+    "authors": [
+      "Kun Lei",
+      "Huanyu Li",
+      "Dongjie Yu",
+      "Zhenyu Wei",
+      "Lingxiao Guo",
+      "Zhennan Jiang",
+      "Ziyu Wang",
+      "Shiyu Liang",
+      "Huazhe Xu"
+    ],
+    "volume": "11",
+    "issue": "116",
+    "domains": [
+      "Manipulation",
+      "Control"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Behavior Cloning",
+      "Diffusion Models"
+    ],
+    "type": "Research Article",
+    "summary": "Improves diffusion visuomotor policies through offline and online reinforcement learning, with fast one-step execution.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.aed6267"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/42485441",
+      "https://api.crossref.org/works/10.1126/scirobotics.aed6267"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -712,44 +712,6 @@
     }
   },
   {
-    "title": "Demonstrate once, execute on many: Kinematic intelligence for cross-robot skill transfer",
-    "doi": "10.1126/scirobotics.aea1995",
-    "date": "2026-04-15",
-    "authors": [
-      "Sthithpragya Gupta",
-      "Durgesh Haribhau Salunkhe",
-      "Aude Billard"
-    ],
-    "volume": "11",
-    "issue": "113",
-    "domains": [
-      "Manipulation",
-      "Control"
-    ],
-    "methods": [
-      "Other Imitation Learning",
-      "Hybrid Methods"
-    ],
-    "type": "Research Article",
-    "summary": "Embeds kinematic constraints in demonstration-derived dynamical policies for skill transfer across robot morphologies.",
-    "cover": {
-      "status": "pending",
-      "sources": []
-    },
-    "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.aea1995"
-    },
-    "sources": [
-      "https://europepmc.org/article/MED/41984997",
-      "https://api.crossref.org/works/10.1126/scirobotics.aea1995"
-    ],
-    "verification": {
-      "metadata": "Europe PMC; Crossref",
-      "relevance": "Author abstract screened",
-      "cover": "Not yet verified"
-    }
-  },
-  {
     "title": "A careful examination of large behavior models for multitask dexterous manipulation",
     "doi": "10.1126/scirobotics.aea6201",
     "date": "2026-04-15",
@@ -872,6 +834,44 @@
       "metadata": "Europe PMC; Crossref",
       "relevance": "Author abstract screened",
       "cover": "The research team links its April 2026 journal cover; the institute confirms the cover feature."
+    }
+  },
+  {
+    "title": "Demonstrate once, execute on many: Kinematic intelligence for cross-robot skill transfer",
+    "doi": "10.1126/scirobotics.aea1995",
+    "date": "2026-04-15",
+    "authors": [
+      "Sthithpragya Gupta",
+      "Durgesh Haribhau Salunkhe",
+      "Aude Billard"
+    ],
+    "volume": "11",
+    "issue": "113",
+    "domains": [
+      "Manipulation",
+      "Control"
+    ],
+    "methods": [
+      "Other Imitation Learning",
+      "Hybrid Methods"
+    ],
+    "type": "Research Article",
+    "summary": "Embeds kinematic constraints in demonstration-derived dynamical policies for skill transfer across robot morphologies.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.aea1995"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/41984997",
+      "https://api.crossref.org/works/10.1126/scirobotics.aea1995"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
     }
   },
   {
@@ -1147,47 +1147,6 @@
     }
   },
   {
-    "title": "Metamaterial robotics",
-    "doi": "10.1126/scirobotics.adx1519",
-    "date": "2025-11-19",
-    "authors": [
-      "Xiaoyang Zheng",
-      "Yuhao Jiang",
-      "Mustafa Mete",
-      "Jingjing Li",
-      "Ikumu Watanabe",
-      "Takayuki Yamada",
-      "Jamie Paik"
-    ],
-    "volume": "10",
-    "issue": "108",
-    "domains": [
-      "Soft Robotics",
-      "Robot Design"
-    ],
-    "methods": [
-      "Learning-Based Optimization"
-    ],
-    "type": "Review / Perspective",
-    "summary": "Reviews metamaterial robotics, including AI-supported design, modeling, and adaptive control.",
-    "cover": {
-      "status": "pending",
-      "sources": []
-    },
-    "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.adx1519"
-    },
-    "sources": [
-      "https://europepmc.org/article/MED/41259447",
-      "https://api.crossref.org/works/10.1126/scirobotics.adx1519"
-    ],
-    "verification": {
-      "metadata": "Europe PMC; Crossref",
-      "relevance": "Author abstract screened",
-      "cover": "Not yet verified"
-    }
-  },
-  {
     "title": "Deep domain adaptation eliminates costly data required for task-agnostic wearable robotic control",
     "doi": "10.1126/scirobotics.ads8652",
     "date": "2025-11-19",
@@ -1221,6 +1180,47 @@
     "sources": [
       "https://europepmc.org/article/MED/41259448",
       "https://api.crossref.org/works/10.1126/scirobotics.ads8652"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Metamaterial robotics",
+    "doi": "10.1126/scirobotics.adx1519",
+    "date": "2025-11-19",
+    "authors": [
+      "Xiaoyang Zheng",
+      "Yuhao Jiang",
+      "Mustafa Mete",
+      "Jingjing Li",
+      "Ikumu Watanabe",
+      "Takayuki Yamada",
+      "Jamie Paik"
+    ],
+    "volume": "10",
+    "issue": "108",
+    "domains": [
+      "Soft Robotics",
+      "Robot Design"
+    ],
+    "methods": [
+      "Learning-Based Optimization"
+    ],
+    "type": "Review / Perspective",
+    "summary": "Reviews metamaterial robotics, including AI-supported design, modeling, and adaptive control.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.adx1519"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/41259447",
+      "https://api.crossref.org/works/10.1126/scirobotics.adx1519"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -1278,41 +1278,6 @@
     }
   },
   {
-    "title": "Extending robot minds through collective learning",
-    "doi": "10.1126/scirobotics.adv4049",
-    "date": "2025-09-24",
-    "authors": [
-      "Amanda Prorok"
-    ],
-    "volume": "10",
-    "issue": "106",
-    "domains": [
-      "Multi-Robot Systems"
-    ],
-    "methods": [
-      "Foundation Models",
-      "Collective Learning"
-    ],
-    "type": "Review / Perspective",
-    "summary": "Argues for distributed robot learning through modular, interdependent systems rather than monolithic models.",
-    "cover": {
-      "status": "pending",
-      "sources": []
-    },
-    "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.adv4049"
-    },
-    "sources": [
-      "https://europepmc.org/article/MED/40991715",
-      "https://api.crossref.org/works/10.1126/scirobotics.adv4049"
-    ],
-    "verification": {
-      "metadata": "Europe PMC; Crossref",
-      "relevance": "Author abstract screened",
-      "cover": "Not yet verified"
-    }
-  },
-  {
     "title": "Accelerating discovery in natural science laboratories with AI and robotics: Perspectives and challenges",
     "doi": "10.1126/scirobotics.adv7932",
     "date": "2025-09-24",
@@ -1362,6 +1327,41 @@
     "sources": [
       "https://europepmc.org/article/MED/40991717",
       "https://api.crossref.org/works/10.1126/scirobotics.adv7932"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Extending robot minds through collective learning",
+    "doi": "10.1126/scirobotics.adv4049",
+    "date": "2025-09-24",
+    "authors": [
+      "Amanda Prorok"
+    ],
+    "volume": "10",
+    "issue": "106",
+    "domains": [
+      "Multi-Robot Systems"
+    ],
+    "methods": [
+      "Foundation Models",
+      "Collective Learning"
+    ],
+    "type": "Review / Perspective",
+    "summary": "Argues for distributed robot learning through modular, interdependent systems rather than monolithic models.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.adv4049"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/40991715",
+      "https://api.crossref.org/works/10.1126/scirobotics.adv4049"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -1457,6 +1457,48 @@
     }
   },
   {
+    "title": "\"Data will solve robotics and automation: True or false?\": A debate",
+    "doi": "10.1126/scirobotics.aea7897",
+    "date": "2025-08-27",
+    "authors": [
+      "Nancy M Amato",
+      "Seth Hutchinson",
+      "Animesh Garg",
+      "Aude Billard",
+      "Daniela Rus",
+      "Russ Tedrake",
+      "Frank Park",
+      "Ken Goldberg"
+    ],
+    "volume": "10",
+    "issue": "105",
+    "domains": [
+      "Control",
+      "Manipulation"
+    ],
+    "methods": [
+      "Foundation Models"
+    ],
+    "type": "Review / Perspective",
+    "summary": "Presents a debate on whether scaling data alone can solve robotics and automation.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.aea7897"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/40864728",
+      "https://api.crossref.org/works/10.1126/scirobotics.aea7897"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
     "title": "Attention-based map encoding for learning generalized legged locomotion",
     "doi": "10.1126/scirobotics.adv3604",
     "date": "2025-08-27",
@@ -1498,40 +1540,42 @@
     }
   },
   {
-    "title": "\"Data will solve robotics and automation: True or false?\": A debate",
-    "doi": "10.1126/scirobotics.aea7897",
-    "date": "2025-08-27",
+    "title": "Learning contact-rich whole-body manipulation with example-guided reinforcement learning",
+    "doi": "10.1126/scirobotics.ads6790",
+    "date": "2025-08-20",
     "authors": [
-      "Nancy M Amato",
-      "Seth Hutchinson",
-      "Animesh Garg",
-      "Aude Billard",
-      "Daniela Rus",
-      "Russ Tedrake",
-      "Frank Park",
-      "Ken Goldberg"
+      "Jose A Barreiros",
+      "Aykut Özgün Önol",
+      "Mengchao Zhang",
+      "Sam Creasey",
+      "Aimee Goncalves",
+      "Andrew Beaulieu",
+      "Aditya Bhat",
+      "Kate M Tsui",
+      "Alex Alspach"
     ],
     "volume": "10",
     "issue": "105",
     "domains": [
-      "Control",
-      "Manipulation"
+      "Manipulation",
+      "Control"
     ],
     "methods": [
-      "Foundation Models"
+      "Reinforcement Learning",
+      "Other Imitation Learning"
     ],
-    "type": "Review / Perspective",
-    "summary": "Presents a debate on whether scaling data alone can solve robotics and automation.",
+    "type": "Research Article",
+    "summary": "Learns contact-rich whole-body object handling from example motions using a compliant humanoid upper body.",
     "cover": {
       "status": "pending",
       "sources": []
     },
     "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.aea7897"
+      "paper": "https://doi.org/10.1126/scirobotics.ads6790"
     },
     "sources": [
-      "https://europepmc.org/article/MED/40864728",
-      "https://api.crossref.org/works/10.1126/scirobotics.aea7897"
+      "https://europepmc.org/article/MED/40834065",
+      "https://api.crossref.org/works/10.1126/scirobotics.ads6790"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -1586,79 +1630,39 @@
     }
   },
   {
-    "title": "Learning contact-rich whole-body manipulation with example-guided reinforcement learning",
-    "doi": "10.1126/scirobotics.ads6790",
-    "date": "2025-08-20",
-    "authors": [
-      "Jose A Barreiros",
-      "Aykut Özgün Önol",
-      "Mengchao Zhang",
-      "Sam Creasey",
-      "Aimee Goncalves",
-      "Andrew Beaulieu",
-      "Aditya Bhat",
-      "Kate M Tsui",
-      "Alex Alspach"
-    ],
-    "volume": "10",
-    "issue": "105",
-    "domains": [
-      "Manipulation",
-      "Control"
-    ],
-    "methods": [
-      "Reinforcement Learning",
-      "Other Imitation Learning"
-    ],
-    "type": "Research Article",
-    "summary": "Learns contact-rich whole-body object handling from example motions using a compliant humanoid upper body.",
-    "cover": {
-      "status": "pending",
-      "sources": []
-    },
-    "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.ads6790"
-    },
-    "sources": [
-      "https://europepmc.org/article/MED/40834065",
-      "https://api.crossref.org/works/10.1126/scirobotics.ads6790"
-    ],
-    "verification": {
-      "metadata": "Europe PMC; Crossref",
-      "relevance": "Author abstract screened",
-      "cover": "Not yet verified"
-    }
-  },
-  {
-    "title": "The grand challenges of learning medical robot autonomy",
-    "doi": "10.1126/scirobotics.adz8279",
+    "title": "AI in therapeutic and assistive exoskeletons and exosuits: Influences on performance and autonomy",
+    "doi": "10.1126/scirobotics.adt7329",
     "date": "2025-07-30",
     "authors": [
-      "Pierre E Dupont",
-      "Alperen Degirmenci"
+      "Herman van der Kooij",
+      "Edwin H F van Asseldonk",
+      "Massimo Sartori",
+      "Chiara Basla",
+      "Adrian Esser",
+      "Robert Riener"
     ],
     "volume": "10",
     "issue": "104",
     "domains": [
-      "Surgical Robotics"
+      "Wearable Robotics",
+      "Control"
     ],
     "methods": [
-      "Foundation Models",
-      "Reinforcement Learning"
+      "Reinforcement Learning",
+      "Supervised Learning"
     ],
     "type": "Review / Perspective",
-    "summary": "Identifies barriers to learning the perception, decision-making, and action needed for medical robot autonomy.",
+    "summary": "Reviews how machine learning supports intention recognition, assessment, and autonomous wearable assistance.",
     "cover": {
       "status": "pending",
       "sources": []
     },
     "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.adz8279",
-      "open": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12624563/"
+      "paper": "https://doi.org/10.1126/scirobotics.adt7329"
     },
     "sources": [
-      "https://europepmc.org/article/MED/40737383",
-      "https://api.crossref.org/works/10.1126/scirobotics.adz8279"
+      "https://europepmc.org/article/MED/40737382",
+      "https://api.crossref.org/works/10.1126/scirobotics.adt7329"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -1713,39 +1717,35 @@
     }
   },
   {
-    "title": "AI in therapeutic and assistive exoskeletons and exosuits: Influences on performance and autonomy",
-    "doi": "10.1126/scirobotics.adt7329",
+    "title": "The grand challenges of learning medical robot autonomy",
+    "doi": "10.1126/scirobotics.adz8279",
     "date": "2025-07-30",
     "authors": [
-      "Herman van der Kooij",
-      "Edwin H F van Asseldonk",
-      "Massimo Sartori",
-      "Chiara Basla",
-      "Adrian Esser",
-      "Robert Riener"
+      "Pierre E Dupont",
+      "Alperen Degirmenci"
     ],
     "volume": "10",
     "issue": "104",
     "domains": [
-      "Wearable Robotics",
-      "Control"
+      "Surgical Robotics"
     ],
     "methods": [
-      "Reinforcement Learning",
-      "Supervised Learning"
+      "Foundation Models",
+      "Reinforcement Learning"
     ],
     "type": "Review / Perspective",
-    "summary": "Reviews how machine learning supports intention recognition, assessment, and autonomous wearable assistance.",
+    "summary": "Identifies barriers to learning the perception, decision-making, and action needed for medical robot autonomy.",
     "cover": {
       "status": "pending",
       "sources": []
     },
     "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.adt7329"
+      "paper": "https://doi.org/10.1126/scirobotics.adz8279",
+      "open": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12624563/"
     },
     "sources": [
-      "https://europepmc.org/article/MED/40737382",
-      "https://api.crossref.org/works/10.1126/scirobotics.adt7329"
+      "https://europepmc.org/article/MED/40737383",
+      "https://api.crossref.org/works/10.1126/scirobotics.adz8279"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -1851,40 +1851,6 @@
     }
   },
   {
-    "title": "The robot will see you now: Foundation models are the path forward for autonomous robotic surgery",
-    "doi": "10.1126/scirobotics.adt0684",
-    "date": "2025-07-09",
-    "authors": [
-      "Michael Yip"
-    ],
-    "volume": "10",
-    "issue": "104",
-    "domains": [
-      "Surgical Robotics"
-    ],
-    "methods": [
-      "Foundation Models"
-    ],
-    "type": "Review / Perspective",
-    "summary": "Examines the data requirements and prospects of foundation models for autonomous robotic surgery.",
-    "cover": {
-      "status": "pending",
-      "sources": []
-    },
-    "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.adt0684"
-    },
-    "sources": [
-      "https://europepmc.org/article/MED/40632874",
-      "https://api.crossref.org/works/10.1126/scirobotics.adt0684"
-    ],
-    "verification": {
-      "metadata": "Europe PMC; Crossref",
-      "relevance": "Author abstract screened",
-      "cover": "Not yet verified"
-    }
-  },
-  {
     "title": "SRT-H: A hierarchical framework for autonomous surgery via language-conditioned imitation learning",
     "doi": "10.1126/scirobotics.adt5254",
     "date": "2025-07-09",
@@ -1943,43 +1909,32 @@
     }
   },
   {
-    "title": "Hierarchically depicting vehicle trajectory with stability in complex environments",
-    "doi": "10.1126/scirobotics.ads4551",
-    "date": "2025-06-18",
+    "title": "The robot will see you now: Foundation models are the path forward for autonomous robotic surgery",
+    "doi": "10.1126/scirobotics.adt0684",
+    "date": "2025-07-09",
     "authors": [
-      "Zhichao Han",
-      "Mengze Tian",
-      "Zaitian Gongye",
-      "Donglai Xue",
-      "Jiaxi Xing",
-      "Qianhao Wang",
-      "Yuman Gao",
-      "Jingping Wang",
-      "Chao Xu",
-      "Fei Gao"
+      "Michael Yip"
     ],
     "volume": "10",
-    "issue": "103",
+    "issue": "104",
     "domains": [
-      "Navigation",
-      "Control"
+      "Surgical Robotics"
     ],
     "methods": [
-      "Supervised Learning",
-      "Hybrid Methods"
+      "Foundation Models"
     ],
-    "type": "Research Article",
-    "summary": "Combines learned path proposals with stable trajectory optimization to navigate complex environments efficiently.",
+    "type": "Review / Perspective",
+    "summary": "Examines the data requirements and prospects of foundation models for autonomous robotic surgery.",
     "cover": {
       "status": "pending",
       "sources": []
     },
     "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.ads4551"
+      "paper": "https://doi.org/10.1126/scirobotics.adt0684"
     },
     "sources": [
-      "https://europepmc.org/article/MED/40531959",
-      "https://api.crossref.org/works/10.1126/scirobotics.ads4551"
+      "https://europepmc.org/article/MED/40632874",
+      "https://api.crossref.org/works/10.1126/scirobotics.adt0684"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -2025,6 +1980,51 @@
     }
   },
   {
+    "title": "Hierarchically depicting vehicle trajectory with stability in complex environments",
+    "doi": "10.1126/scirobotics.ads4551",
+    "date": "2025-06-18",
+    "authors": [
+      "Zhichao Han",
+      "Mengze Tian",
+      "Zaitian Gongye",
+      "Donglai Xue",
+      "Jiaxi Xing",
+      "Qianhao Wang",
+      "Yuman Gao",
+      "Jingping Wang",
+      "Chao Xu",
+      "Fei Gao"
+    ],
+    "volume": "10",
+    "issue": "103",
+    "domains": [
+      "Navigation",
+      "Control"
+    ],
+    "methods": [
+      "Supervised Learning",
+      "Hybrid Methods"
+    ],
+    "type": "Research Article",
+    "summary": "Combines learned path proposals with stable trajectory optimization to navigate complex environments efficiently.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.ads4551"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/40531959",
+      "https://api.crossref.org/works/10.1126/scirobotics.ads4551"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
     "title": "Multimodal information structuring with single-layer soft skins and high-density electrical impedance tomography",
     "doi": "10.1126/scirobotics.adq2303",
     "date": "2025-06-11",
@@ -2054,45 +2054,6 @@
     "sources": [
       "https://europepmc.org/article/MED/40498812",
       "https://api.crossref.org/works/10.1126/scirobotics.adq2303"
-    ],
-    "verification": {
-      "metadata": "Europe PMC; Crossref",
-      "relevance": "Author abstract screened",
-      "cover": "Not yet verified"
-    }
-  },
-  {
-    "title": "Learning coordinated badminton skills for legged manipulators",
-    "doi": "10.1126/scirobotics.adu3922",
-    "date": "2025-05-28",
-    "authors": [
-      "Yuntao Ma",
-      "Andrei Cramariuc",
-      "Farbod Farshidian",
-      "Marco Hutter"
-    ],
-    "volume": "10",
-    "issue": "102",
-    "domains": [
-      "Manipulation",
-      "Locomotion",
-      "Control"
-    ],
-    "methods": [
-      "Reinforcement Learning"
-    ],
-    "type": "Research Article",
-    "summary": "Learns coordinated whole-body badminton skills while accounting for real-world visual perception uncertainty.",
-    "cover": {
-      "status": "pending",
-      "sources": []
-    },
-    "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.adu3922"
-    },
-    "sources": [
-      "https://europepmc.org/article/MED/40435206",
-      "https://api.crossref.org/works/10.1126/scirobotics.adu3922"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -2137,6 +2098,45 @@
     "sources": [
       "https://europepmc.org/article/MED/40435207",
       "https://api.crossref.org/works/10.1126/scirobotics.ads6192"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Learning coordinated badminton skills for legged manipulators",
+    "doi": "10.1126/scirobotics.adu3922",
+    "date": "2025-05-28",
+    "authors": [
+      "Yuntao Ma",
+      "Andrei Cramariuc",
+      "Farbod Farshidian",
+      "Marco Hutter"
+    ],
+    "volume": "10",
+    "issue": "102",
+    "domains": [
+      "Manipulation",
+      "Locomotion",
+      "Control"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Learns coordinated whole-body badminton skills while accounting for real-world visual perception uncertainty.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.adu3922"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/40435206",
+      "https://api.crossref.org/works/10.1126/scirobotics.adu3922"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -2273,45 +2273,6 @@
     }
   },
   {
-    "title": "Development of compositionality through interactive learning of language and action of robots",
-    "doi": "10.1126/scirobotics.adp0751",
-    "date": "2025-01-22",
-    "authors": [
-      "Prasanna Vijayaraghavan",
-      "Jeffrey Frederic Queißer",
-      "Sergio Verduzco Flores",
-      "Jun Tani"
-    ],
-    "volume": "10",
-    "issue": "98",
-    "domains": [
-      "Human–Robot Interaction",
-      "Manipulation"
-    ],
-    "methods": [
-      "Developmental Learning",
-      "Representation Learning"
-    ],
-    "type": "Research Article",
-    "summary": "Integrates vision, proprioception, and language to learn compositional action–language representations.",
-    "cover": {
-      "status": "pending",
-      "sources": []
-    },
-    "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.adp0751"
-    },
-    "sources": [
-      "https://europepmc.org/article/MED/39841816",
-      "https://api.crossref.org/works/10.1126/scirobotics.adp0751"
-    ],
-    "verification": {
-      "metadata": "Europe PMC; Crossref",
-      "relevance": "Author abstract screened",
-      "cover": "Not yet verified"
-    }
-  },
-  {
     "title": "A neuromechanics solution for adjustable robot compliance and accuracy",
     "doi": "10.1126/scirobotics.adp2356",
     "date": "2025-01-22",
@@ -2345,6 +2306,45 @@
     "sources": [
       "https://europepmc.org/article/MED/39841815",
       "https://api.crossref.org/works/10.1126/scirobotics.adp2356"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Development of compositionality through interactive learning of language and action of robots",
+    "doi": "10.1126/scirobotics.adp0751",
+    "date": "2025-01-22",
+    "authors": [
+      "Prasanna Vijayaraghavan",
+      "Jeffrey Frederic Queißer",
+      "Sergio Verduzco Flores",
+      "Jun Tani"
+    ],
+    "volume": "10",
+    "issue": "98",
+    "domains": [
+      "Human–Robot Interaction",
+      "Manipulation"
+    ],
+    "methods": [
+      "Developmental Learning",
+      "Representation Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Integrates vision, proprioception, and language to learn compositional action–language representations.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.adp0751"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/39841816",
+      "https://api.crossref.org/works/10.1126/scirobotics.adp0751"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -2708,47 +2708,6 @@
     }
   },
   {
-    "title": "Stereoscopic artificial compound eyes for spatiotemporal perception in three-dimensional space",
-    "doi": "10.1126/scirobotics.adl3606",
-    "date": "2024-05-15",
-    "authors": [
-      "Byungjoon Bae",
-      "Doeon Lee",
-      "Minseong Park",
-      "Yujia Mu",
-      "Yongmin Baek",
-      "Inbo Sim",
-      "Cong Shen",
-      "Kyusang Lee"
-    ],
-    "volume": "9",
-    "issue": "90",
-    "domains": [
-      "Perception"
-    ],
-    "methods": [
-      "Supervised Learning"
-    ],
-    "type": "Research Article",
-    "summary": "Combines stereoscopic artificial compound eyes with edge learning for efficient three-dimensional object tracking.",
-    "cover": {
-      "status": "pending",
-      "sources": []
-    },
-    "links": {
-      "paper": "https://doi.org/10.1126/scirobotics.adl3606"
-    },
-    "sources": [
-      "https://europepmc.org/article/MED/38748779",
-      "https://api.crossref.org/works/10.1126/scirobotics.adl3606"
-    ],
-    "verification": {
-      "metadata": "Europe PMC; Crossref",
-      "relevance": "Author abstract screened",
-      "cover": "Not yet verified"
-    }
-  },
-  {
     "title": "Fully neuromorphic vision and control for autonomous drone flight",
     "doi": "10.1126/scirobotics.adi0591",
     "date": "2024-05-15",
@@ -2784,6 +2743,47 @@
     "sources": [
       "https://europepmc.org/article/MED/38748781",
       "https://api.crossref.org/works/10.1126/scirobotics.adi0591"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Stereoscopic artificial compound eyes for spatiotemporal perception in three-dimensional space",
+    "doi": "10.1126/scirobotics.adl3606",
+    "date": "2024-05-15",
+    "authors": [
+      "Byungjoon Bae",
+      "Doeon Lee",
+      "Minseong Park",
+      "Yujia Mu",
+      "Yongmin Baek",
+      "Inbo Sim",
+      "Cong Shen",
+      "Kyusang Lee"
+    ],
+    "volume": "9",
+    "issue": "90",
+    "domains": [
+      "Perception"
+    ],
+    "methods": [
+      "Supervised Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Combines stereoscopic artificial compound eyes with edge learning for efficient three-dimensional object tracking.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.adl3606"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/38748779",
+      "https://api.crossref.org/works/10.1126/scirobotics.adl3606"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
@@ -3091,6 +3091,2068 @@
       "https://europepmc.org/article/MED/38232148",
       "https://api.crossref.org/works/10.1126/scirobotics.adh5401",
       "https://arxiv.org/abs/2309.15462"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Machine learning-driven self-discovery of the robot body morphology",
+    "doi": "10.1126/scirobotics.adh0972",
+    "date": "2023-12-13",
+    "authors": [
+      "Fernando Díaz Ledezma",
+      "Sami Haddadin"
+    ],
+    "volume": "8",
+    "issue": "85",
+    "domains": [
+      "Robot Design",
+      "Perception",
+      "Control"
+    ],
+    "methods": [
+      "Self-Supervised Learning",
+      "Representation Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Infers a robot's own kinematic structure from unlabeled proprioceptive signals using mutual-information graphs.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.adh0972"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/38091427",
+      "https://api.crossref.org/works/10.1126/scirobotics.adh0972"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "A framework for robotic excavation and dry stone construction using on-site materials",
+    "doi": "10.1126/scirobotics.abp9758",
+    "date": "2023-11-22",
+    "authors": [
+      "Ryan Luke Johns",
+      "Martin Wermelinger",
+      "Ruben Mascaro",
+      "Dominic Jud",
+      "Ilmar Hurkxkens",
+      "Lauren Vasey",
+      "Margarita Chli",
+      "Fabio Gramazio",
+      "Matthias Kohler",
+      "Marco Hutter"
+    ],
+    "volume": "8",
+    "issue": "84",
+    "domains": [
+      "Field Robotics",
+      "Manipulation",
+      "Perception"
+    ],
+    "methods": [
+      "Supervised Learning",
+      "Learning-Based Perception",
+      "Hybrid Methods"
+    ],
+    "type": "Research Article",
+    "summary": "Learns stone detection and segmentation from real and simulated data, then plans stable dry-stone walls an excavator builds from on-site rubble.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abp9758"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/37992191",
+      "https://api.crossref.org/works/10.1126/scirobotics.abp9758"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Visual dexterity: In-hand reorientation of novel and complex object shapes",
+    "doi": "10.1126/scirobotics.adc9244",
+    "date": "2023-11-22",
+    "authors": [
+      "Tao Chen",
+      "Megha Tippur",
+      "Siyang Wu",
+      "Vikash Kumar",
+      "Edward Adelson",
+      "Pulkit Agrawal"
+    ],
+    "volume": "8",
+    "issue": "84",
+    "domains": [
+      "Dexterous Manipulation",
+      "Manipulation"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Trains an in-hand reorientation policy in simulation that turns unseen object shapes to arbitrary orientations from a single depth camera.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.adc9244",
+      "project": "https://taochenshh.github.io/projects/visual-dexterity",
+      "open": "https://arxiv.org/abs/2211.11744"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/37992192",
+      "https://api.crossref.org/works/10.1126/scirobotics.adc9244"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "User preference optimization for control of ankle exoskeletons using sample efficient active learning",
+    "doi": "10.1126/scirobotics.adg3705",
+    "date": "2023-10-18",
+    "authors": [
+      "Ung Hee Lee",
+      "Varun S Shetty",
+      "Patrick W Franks",
+      "Jie Tan",
+      "Georgios Evangelopoulos",
+      "Sehoon Ha",
+      "Elliott J Rouse"
+    ],
+    "volume": "8",
+    "issue": "83",
+    "domains": [
+      "Wearable Robotics",
+      "Human–Robot Interaction",
+      "Control"
+    ],
+    "methods": [
+      "Human-in-the-Loop Learning",
+      "Learning-Based Optimization",
+      "Supervised Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Ranks candidate exoskeleton controller settings with a neural network pretrained on preference data, tuning four parameters to what wearers actually prefer.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.adg3705"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/37851817",
+      "https://api.crossref.org/works/10.1126/scirobotics.adg3705"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Neuromorphic sequence learning with an event camera on routes through vegetation",
+    "doi": "10.1126/scirobotics.adg3679",
+    "date": "2023-09-27",
+    "authors": [
+      "Le Zhu",
+      "Michael Mangan",
+      "Barbara Webb"
+    ],
+    "volume": "8",
+    "issue": "82",
+    "domains": [
+      "Navigation",
+      "Perception",
+      "Field Robotics"
+    ],
+    "methods": [
+      "Neuromorphic Learning",
+      "Representation Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Runs an insect-brain-inspired spatiotemporal memory over event-camera sequences so a ground robot can recall routes through moving vegetation.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.adg3679"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/37756384",
+      "https://api.crossref.org/works/10.1126/scirobotics.adg3679"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Reaching the limit in autonomous racing: Optimal control versus reinforcement learning",
+    "doi": "10.1126/scirobotics.adg1462",
+    "date": "2023-09-13",
+    "authors": [
+      "Yunlong Song",
+      "Angel Romero",
+      "Matthias Müller",
+      "Vladlen Koltun",
+      "Davide Scaramuzza"
+    ],
+    "volume": "8",
+    "issue": "82",
+    "domains": [
+      "Aerial Robotics",
+      "Control",
+      "Navigation"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Compares reinforcement learning against optimal control on drone racing and traces the learning advantage to optimizing the task objective directly rather than through a trajectory interface.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.adg1462",
+      "open": "https://arxiv.org/abs/2310.10943"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/37703383",
+      "https://api.crossref.org/works/10.1126/scirobotics.adg1462"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Ajna: Generalized deep uncertainty for minimal perception on parsimonious robots",
+    "doi": "10.1126/scirobotics.add5139",
+    "date": "2023-08-16",
+    "authors": [
+      "Nitin J Sanket",
+      "Chahat Deep Singh",
+      "Cornelia Fermüller",
+      "Yiannis Aloimonos"
+    ],
+    "volume": "8",
+    "issue": "81",
+    "domains": [
+      "Perception",
+      "Aerial Robotics"
+    ],
+    "methods": [
+      "Learning-Based Perception",
+      "Supervised Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Adds distribution-free aleatoric uncertainty to any perception network with a loss-function change small enough to run onboard a lightweight robot.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.add5139",
+      "code": "https://github.com/prgumd/ajna"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/37585545",
+      "https://api.crossref.org/works/10.1126/scirobotics.add5139"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Dynamic robotic tracking of underwater targets using reinforcement learning",
+    "doi": "10.1126/scirobotics.ade7811",
+    "date": "2023-07-26",
+    "authors": [
+      "I Masmitja",
+      "M Martin",
+      "T O'Reilly",
+      "B Kieft",
+      "N Palomeras",
+      "J Navarro",
+      "K Katija"
+    ],
+    "volume": "8",
+    "issue": "80",
+    "domains": [
+      "Field Robotics",
+      "Navigation",
+      "Control"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Uses reinforcement learning to steer an underwater vehicle that keeps a tagged, moving target in range without an analytic path planner.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.ade7811",
+      "open": "https://hdl.handle.net/2117/393215"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/37494462",
+      "https://api.crossref.org/works/10.1126/scirobotics.ade7811"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Navigating to objects in the real world",
+    "doi": "10.1126/scirobotics.adf6991",
+    "date": "2023-06-28",
+    "authors": [
+      "Theophile Gervet",
+      "Soumith Chintala",
+      "Dhruv Batra",
+      "Jitendra Malik",
+      "Devendra Singh Chaplot"
+    ],
+    "volume": "8",
+    "issue": "79",
+    "domains": [
+      "Navigation",
+      "Perception"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Learning-Based Perception",
+      "Hybrid Methods"
+    ],
+    "type": "Research Article",
+    "summary": "Benchmarks classical, modular-learning and end-to-end semantic navigation across six unseen homes and finds modular learning transfers best to hardware.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.adf6991",
+      "project": "https://theophilegervet.github.io/projects/real-world-object-navigation/",
+      "open": "https://arxiv.org/abs/2212.00922"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/37379376",
+      "https://api.crossref.org/works/10.1126/scirobotics.adf6991"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Brain-inspired multimodal hybrid neural network for robot place recognition",
+    "doi": "10.1126/scirobotics.abm6996",
+    "date": "2023-05-10",
+    "authors": [
+      "Fangwen Yu",
+      "Yujie Wu",
+      "Yujie Wu",
+      "Songchen Ma",
+      "Mingkun Xu",
+      "Hongyi Li",
+      "Huanyu Qu",
+      "Chenhang Song",
+      "Taoyi Wang",
+      "Rong Zhao",
+      "Luping Shi"
+    ],
+    "volume": "8",
+    "issue": "78",
+    "domains": [
+      "Perception",
+      "Navigation"
+    ],
+    "methods": [
+      "Neuromorphic Learning",
+      "Representation Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Fuses conventional and event sensors in a hybrid neural network modeled on place, head-direction and time cells for robust place recognition.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abm6996",
+      "code": "https://github.com/cognav/NeuroGPR"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/37163608",
+      "https://api.crossref.org/works/10.1126/scirobotics.abm6996"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Robust flight navigation out of distribution with liquid neural networks",
+    "doi": "10.1126/scirobotics.adc8892",
+    "date": "2023-04-19",
+    "authors": [
+      "Makram Chahine",
+      "Ramin Hasani",
+      "Patrick Kao",
+      "Aaron Ray",
+      "Ryan Shubert",
+      "Mathias Lechner",
+      "Alexander Amini",
+      "Daniela Rus"
+    ],
+    "volume": "8",
+    "issue": "77",
+    "domains": [
+      "Aerial Robotics",
+      "Navigation",
+      "Perception"
+    ],
+    "methods": [
+      "Other Imitation Learning",
+      "Representation Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Trains continuous-time liquid networks by imitation so a drone's vision-based fly-to-target skill survives large scenery shifts.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.adc8892",
+      "code": "https://github.com/makramchahine/drone_causality"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/37075102",
+      "https://api.crossref.org/works/10.1126/scirobotics.adc8892"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Morphological computation and decentralized learning in a swarm of sterically interacting robots",
+    "doi": "10.1126/scirobotics.abo6140",
+    "date": "2023-02-22",
+    "authors": [
+      "Matan Yah Ben Zion",
+      "Jeremy Fersula",
+      "Nicolas Bredeche",
+      "Olivier Dauchot"
+    ],
+    "volume": "8",
+    "issue": "75",
+    "domains": [
+      "Multi-Robot Systems",
+      "Robot Design",
+      "Locomotion"
+    ],
+    "methods": [
+      "Collective Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Encodes a force-orientation response in a printed exoskeleton so dense swarms compute through collisions and adapt without a central controller.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abo6140",
+      "open": "https://arxiv.org/abs/2111.06953"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/36812334",
+      "https://api.crossref.org/works/10.1126/scirobotics.abo6140"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Learning quadrupedal locomotion on deformable terrain",
+    "doi": "10.1126/scirobotics.ade2256",
+    "date": "2023-01-25",
+    "authors": [
+      "Suyoung Choi",
+      "Gwanghyeon Ji",
+      "Jeongsoo Park",
+      "Hyeongjun Kim",
+      "Juhyeok Mun",
+      "Jeong Hyun Lee",
+      "Jemin Hwangbo"
+    ],
+    "volume": "8",
+    "issue": "74",
+    "domains": [
+      "Locomotion",
+      "Control"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Adaptive Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Adds a fast granular-media simulator to reinforcement learning and identifies terrain properties online so a quadruped runs on sand as well as asphalt.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.ade2256"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/36696473",
+      "https://api.crossref.org/works/10.1126/scirobotics.ade2256"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Mechanical neural networks: Architected materials that learn behaviors",
+    "doi": "10.1126/scirobotics.abq7278",
+    "date": "2022-10-19",
+    "authors": [
+      "Ryan H Lee",
+      "Erwin A B Mulder",
+      "Jonathan B Hopkins"
+    ],
+    "volume": "7",
+    "issue": "71",
+    "domains": [
+      "Robot Design",
+      "Control"
+    ],
+    "methods": [
+      "Learning-Based Optimization"
+    ],
+    "type": "Research Article",
+    "summary": "Builds lattices whose beam stiffnesses are tuned like network weights, letting the material itself learn several mechanical behaviors at once.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abq7278"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/36260698",
+      "https://api.crossref.org/works/10.1126/scirobotics.abq7278"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "From motor control to team play in simulated humanoid football",
+    "doi": "10.1126/scirobotics.abo0235",
+    "date": "2022-08-31",
+    "authors": [
+      "Siqi Liu",
+      "Guy Lever",
+      "Zhe Wang",
+      "Josh Merel",
+      "S M Ali Eslami",
+      "Daniel Hennes",
+      "Wojciech M Czarnecki",
+      "Yuval Tassa",
+      "Shayegan Omidshafiei",
+      "Abbas Abdolmaleki",
+      "Noah Y Siegel",
+      "Leonard Hasenclever",
+      "Luke Marris",
+      "Saran Tunyasuvunakool",
+      "H Francis Song",
+      "Markus Wulfmeier",
+      "Paul Muller",
+      "Tuomas Haarnoja",
+      "Brendan Tracey",
+      "Karl Tuyls",
+      "Thore Graepel",
+      "Nicolas Heess"
+    ],
+    "volume": "7",
+    "issue": "69",
+    "domains": [
+      "Locomotion",
+      "Multi-Robot Systems",
+      "Control"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Policy Distillation"
+    ],
+    "type": "Research Article",
+    "summary": "Trains simulated humanoids end to end from joint torques to team play, integrating motor control with long-horizon multi-agent decisions.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abo0235",
+      "open": "https://arxiv.org/abs/2105.12196"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/36044556",
+      "https://api.crossref.org/works/10.1126/scirobotics.abo0235"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Fully body visual self-modeling of robot morphologies",
+    "doi": "10.1126/scirobotics.abn1944",
+    "date": "2022-07-13",
+    "authors": [
+      "Boyuan Chen",
+      "Robert Kwiatkowski",
+      "Carl Vondrick",
+      "Hod Lipson"
+    ],
+    "volume": "7",
+    "issue": "68",
+    "domains": [
+      "Robot Design",
+      "Perception",
+      "Manipulation"
+    ],
+    "methods": [
+      "Self-Supervised Learning",
+      "Model-Based Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Learns a query-driven occupancy self-model from interaction data, covering the robot's whole body rather than only end-effector kinematics.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abn1944",
+      "project": "https://robot-morphology.cs.columbia.edu/",
+      "code": "https://github.com/BoyuanChen/visual-selfmodeling"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/35857575",
+      "https://api.crossref.org/works/10.1126/scirobotics.abn1944"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "In situ bidirectional human-robot value alignment",
+    "doi": "10.1126/scirobotics.abm4183",
+    "date": "2022-07-13",
+    "authors": [
+      "Luyao Yuan",
+      "Xiaofeng Gao",
+      "Zilong Zheng",
+      "Mark Edmonds",
+      "Ying Nian Wu",
+      "Federico Rossano",
+      "Hongjing Lu",
+      "Yixin Zhu",
+      "Song-Chun Zhu"
+    ],
+    "volume": "7",
+    "issue": "68",
+    "domains": [
+      "Human–Robot Interaction",
+      "Multi-Robot Systems"
+    ],
+    "methods": [
+      "Human-in-the-Loop Learning",
+      "Model-Based Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Robots infer user goal priorities from in-task feedback while explaining their own reasoning, so both sides converge on shared values.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abm4183",
+      "project": "https://yzhu.io/publication/teaming2022scirob/"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/35857532",
+      "https://api.crossref.org/works/10.1126/scirobotics.abm4183"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Neuromorphic computing hardware and neural architectures for robotics",
+    "doi": "10.1126/scirobotics.abl8419",
+    "date": "2022-06-29",
+    "authors": [
+      "Yulia Sandamirskaya",
+      "Mohsen Kaboli",
+      "Jorg Conradt",
+      "Tansu Celikel"
+    ],
+    "volume": "7",
+    "issue": "67",
+    "domains": [
+      "Perception",
+      "Control"
+    ],
+    "methods": [
+      "Neuromorphic Learning"
+    ],
+    "type": "Review / Perspective",
+    "summary": "Viewpoint on how neuroscience findings could reshape on-chip neural computation for robots.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abl8419"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/35767646",
+      "https://api.crossref.org/works/10.1126/scirobotics.abl8419"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Insect-inspired AI for autonomous robots",
+    "doi": "10.1126/scirobotics.abl6334",
+    "date": "2022-06-15",
+    "authors": [
+      "G C H E de Croon",
+      "J J G Dupeyroux",
+      "S B Fuller",
+      "J A R Marshall"
+    ],
+    "volume": "7",
+    "issue": "67",
+    "domains": [
+      "Navigation",
+      "Perception",
+      "Aerial Robotics"
+    ],
+    "methods": [
+      "Neuromorphic Learning",
+      "Learning-Based Perception"
+    ],
+    "type": "Review / Perspective",
+    "summary": "Argues that insect intelligence — embodiment, sensorimotor coordination, swarming — is a resource-efficient alternative to mainstream AI for small robots.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abl6334"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/35704608",
+      "https://api.crossref.org/works/10.1126/scirobotics.abl6334"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Neuromorphic computing chip with spatiotemporal elasticity for multi-intelligent-tasking robots",
+    "doi": "10.1126/scirobotics.abk2948",
+    "date": "2022-06-15",
+    "authors": [
+      "Songchen Ma",
+      "Jing Pei",
+      "Weihao Zhang",
+      "Guanrui Wang",
+      "Dahu Feng",
+      "Fangwen Yu",
+      "Chenhang Song",
+      "Huanyu Qu",
+      "Cheng Ma",
+      "Mingsheng Lu",
+      "Faqiang Liu",
+      "Wenhao Zhou",
+      "Yujie Wu",
+      "Yujie Wu",
+      "Yihan Lin",
+      "Hongyi Li",
+      "Taoyi Wang",
+      "Jiuru Song",
+      "Xue Liu",
+      "Guoqi Li",
+      "Rong Zhao",
+      "Luping Shi"
+    ],
+    "volume": "7",
+    "issue": "67",
+    "domains": [
+      "Perception",
+      "Control"
+    ],
+    "methods": [
+      "Neuromorphic Learning"
+    ],
+    "type": "Research Article",
+    "summary": "A neuromorphic chip that runs several cross-paradigm neural models concurrently, allocating compute and execution time per robotic task.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abk2948"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/35704609",
+      "https://api.crossref.org/works/10.1126/scirobotics.abk2948"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "A biomimetic elastomeric robot skin using electrical impedance and acoustic tomography for tactile sensing",
+    "doi": "10.1126/scirobotics.abm7187",
+    "date": "2022-06-08",
+    "authors": [
+      "K Park",
+      "H Yuk",
+      "M Yang",
+      "J Cho",
+      "H Lee",
+      "J Kim"
+    ],
+    "volume": "7",
+    "issue": "67",
+    "domains": [
+      "Perception",
+      "Human–Robot Interaction",
+      "Soft Robotics"
+    ],
+    "methods": [
+      "Learning-Based Perception",
+      "Supervised Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Reconstructs multimodal touch from electrical impedance and acoustic tomography through deep networks on a repairable hydrogel-elastomer skin.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abm7187"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/35675452",
+      "https://api.crossref.org/works/10.1126/scirobotics.abm7187"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Haptic perception using optoelectronic robotic flesh for embodied artificially intelligent agents",
+    "doi": "10.1126/scirobotics.abi6745",
+    "date": "2022-06-08",
+    "authors": [
+      "Jose A Barreiros",
+      "Artemis Xu",
+      "Sofya Pugach",
+      "Narahari Iyengar",
+      "Graeme Troxell",
+      "Alexander Cornwell",
+      "Samantha Hong",
+      "Bart Selman",
+      "Robert F Shepherd"
+    ],
+    "volume": "7",
+    "issue": "67",
+    "domains": [
+      "Perception",
+      "Soft Robotics"
+    ],
+    "methods": [
+      "Learning-Based Perception",
+      "Supervised Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Encodes force and temperature into light inside a stretchable elastomer, then infers haptic maps from the camera image with machine learning.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abi6745"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/35675451",
+      "https://api.crossref.org/works/10.1126/scirobotics.abi6745"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Neuro-inspired electronic skin for robots",
+    "doi": "10.1126/scirobotics.abl7344",
+    "date": "2022-06-08",
+    "authors": [
+      "Fengyuan Liu",
+      "Sweety Deswal",
+      "Adamos Christou",
+      "Yulia Sandamirskaya",
+      "Mohsen Kaboli",
+      "Ravinder Dahiya"
+    ],
+    "volume": "7",
+    "issue": "67",
+    "domains": [
+      "Perception",
+      "Robot Design"
+    ],
+    "methods": [
+      "Neuromorphic Learning"
+    ],
+    "type": "Review / Perspective",
+    "summary": "Reviews hardware building blocks for electronic skin that senses and processes touch the way peripheral nerves do.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abl7344"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/35675450",
+      "https://api.crossref.org/works/10.1126/scirobotics.abl7344"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Printed synaptic transistor-based electronic skin for robots to feel and learn",
+    "doi": "10.1126/scirobotics.abl7286",
+    "date": "2022-06-01",
+    "authors": [
+      "Fengyuan Liu",
+      "Sweety Deswal",
+      "Adamos Christou",
+      "Mahdieh Shojaei Baghini",
+      "Radu Chirila",
+      "Dhayalan Shakthivel",
+      "Moupali Chakraborty",
+      "Ravinder Dahiya"
+    ],
+    "volume": "7",
+    "issue": "67",
+    "domains": [
+      "Perception",
+      "Robot Design"
+    ],
+    "methods": [
+      "Neuromorphic Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Prints a uniform synaptic transistor array whose short- and long-term plasticity supports in-hardware learning on robot skin.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abl7286",
+      "open": "https://zenodo.org/records/7032526"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/35648845",
+      "https://api.crossref.org/works/10.1126/scirobotics.abl7286"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Neural-Fly enables rapid learning for agile flight in strong winds",
+    "doi": "10.1126/scirobotics.abm6597",
+    "date": "2022-05-04",
+    "authors": [
+      "Michael O'Connell",
+      "Guanya Shi",
+      "Xichen Shi",
+      "Kamyar Azizzadenesheli",
+      "Anima Anandkumar",
+      "Yisong Yue",
+      "Soon-Jo Chung"
+    ],
+    "volume": "7",
+    "issue": "66",
+    "domains": [
+      "Aerial Robotics",
+      "Control"
+    ],
+    "methods": [
+      "Model-Based Learning",
+      "Adaptive Learning",
+      "Representation Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Meta-learns a shared aerodynamic representation from twelve minutes of flight, then adapts a few coefficients online to track trajectories in gusty wind.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abm6597",
+      "code": "https://github.com/aerorobotics/neural-fly",
+      "open": "https://arxiv.org/abs/2205.06908"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/35507683",
+      "https://api.crossref.org/works/10.1126/scirobotics.abm6597"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Efficient multitask learning with an embodied predictive model for door opening and entry with whole-body control",
+    "doi": "10.1126/scirobotics.aax8177",
+    "date": "2022-04-06",
+    "authors": [
+      "Hiroshi Ito",
+      "Kenjiro Yamamoto",
+      "Hiroki Mori",
+      "Tetsuya Ogata"
+    ],
+    "volume": "7",
+    "issue": "65",
+    "domains": [
+      "Manipulation",
+      "Control",
+      "Navigation"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Model-Based Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Switches between predictive modules by prediction error so a whole-body robot opens and passes through doors with little task-specific engineering.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.aax8177"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/35385295",
+      "https://api.crossref.org/works/10.1126/scirobotics.aax8177"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Learning garment manipulation policies toward robot-assisted dressing",
+    "doi": "10.1126/scirobotics.abm6010",
+    "date": "2022-04-06",
+    "authors": [
+      "Fan Zhang",
+      "Yiannis Demiris"
+    ],
+    "volume": "7",
+    "issue": "65",
+    "domains": [
+      "Manipulation",
+      "Human–Robot Interaction",
+      "Wearable Robotics"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Learning-Based Perception"
+    ],
+    "type": "Research Article",
+    "summary": "Learns in simulation to unfold a hospital gown into a dressable configuration, then transfers the deformable-object policy to a real dressing pipeline.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abm6010",
+      "code": "https://github.com/fan6zh/robot_dressing"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/35385294",
+      "https://api.crossref.org/works/10.1126/scirobotics.abm6010"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Guiding the design of superresolution tactile skins with taxel value isolines theory",
+    "doi": "10.1126/scirobotics.abm0608",
+    "date": "2022-02-23",
+    "authors": [
+      "Huanbo Sun",
+      "Georg Martius"
+    ],
+    "volume": "7",
+    "issue": "63",
+    "domains": [
+      "Perception",
+      "Manipulation"
+    ],
+    "methods": [
+      "Supervised Learning",
+      "Learning-Based Perception"
+    ],
+    "type": "Research Article",
+    "summary": "Predicts achievable tactile superresolution before a sensor is built, pairing an isoline theory with learned contact inference.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abm0608"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/35196071",
+      "https://api.crossref.org/works/10.1126/scirobotics.abm0608"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Learning robust perceptive locomotion for quadrupedal robots in the wild",
+    "doi": "10.1126/scirobotics.abk2822",
+    "date": "2022-01-19",
+    "authors": [
+      "Takahiro Miki",
+      "Joonho Lee",
+      "Jemin Hwangbo",
+      "Lorenz Wellhausen",
+      "Vladlen Koltun",
+      "Marco Hutter"
+    ],
+    "volume": "7",
+    "issue": "62",
+    "domains": [
+      "Locomotion",
+      "Perception",
+      "Control"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Policy Distillation"
+    ],
+    "type": "Research Article",
+    "summary": "Trains a quadruped to fuse exteroception with proprioception and fall back on feel when the depth map is wrong, unlocking fast travel in snow and vegetation.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abk2822",
+      "open": "https://arxiv.org/abs/2201.08117"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/35044798",
+      "https://api.crossref.org/works/10.1126/scirobotics.abk2822"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Coherent, super-resolved radar beamforming using self-supervised learning",
+    "doi": "10.1126/scirobotics.abk0431",
+    "date": "2021-12-15",
+    "authors": [
+      "Itai Orr",
+      "Moshik Cohen",
+      "Harel Damari",
+      "Meir Halachmi",
+      "Mark Raifel",
+      "Zeev Zalevsky"
+    ],
+    "volume": "6",
+    "issue": "61",
+    "domains": [
+      "Perception",
+      "Navigation"
+    ],
+    "methods": [
+      "Self-Supervised Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Quadruples automotive radar angular resolution by training a network self-supervised on complex range-Doppler data, with no extra antennas.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abk0431",
+      "open": "https://arxiv.org/abs/2106.13085"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/34910530",
+      "https://api.crossref.org/works/10.1126/scirobotics.abk0431"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Learning high-speed flight in the wild",
+    "doi": "10.1126/scirobotics.abg5810",
+    "date": "2021-10-06",
+    "authors": [
+      "Antonio Loquercio",
+      "Elia Kaufmann",
+      "René Ranftl",
+      "Matthias Müller",
+      "Vladlen Koltun",
+      "Davide Scaramuzza"
+    ],
+    "volume": "6",
+    "issue": "59",
+    "domains": [
+      "Aerial Robotics",
+      "Navigation",
+      "Perception"
+    ],
+    "methods": [
+      "Other Imitation Learning",
+      "Policy Distillation"
+    ],
+    "type": "Research Article",
+    "summary": "Maps noisy depth directly to collision-free trajectories, letting a quadrotor fly fast through forests without a separate mapping and planning stack.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abg5810",
+      "project": "https://rpg.ifi.uzh.ch/AgileAutonomy.html",
+      "code": "https://github.com/uzh-rpg/agile_autonomy",
+      "open": "https://arxiv.org/abs/2110.05113"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/34613820",
+      "https://api.crossref.org/works/10.1126/scirobotics.abg5810"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "A cerebellar-based solution to the nondeterministic time delay problem in robotic control",
+    "doi": "10.1126/scirobotics.abf2756",
+    "date": "2021-09-08",
+    "authors": [
+      "Ignacio Abadía",
+      "Francisco Naveros",
+      "Eduardo Ros",
+      "Richard R Carrillo",
+      "Niceto R Luque"
+    ],
+    "volume": "6",
+    "issue": "58",
+    "domains": [
+      "Control",
+      "Human–Robot Interaction"
+    ],
+    "methods": [
+      "Neuromorphic Learning",
+      "Adaptive Learning"
+    ],
+    "type": "Research Article",
+    "summary": "A spiking cerebellar model correlates past and present sensorimotor signals to absorb variable control-loop delays in compliant collaborative robots.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abf2756"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/34516748",
+      "https://api.crossref.org/works/10.1126/scirobotics.abf2756"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "A seasonally invariant deep transform for visual terrain-relative navigation",
+    "doi": "10.1126/scirobotics.abf3320",
+    "date": "2021-06-23",
+    "authors": [
+      "Anthony T Fragoso",
+      "Connor T Lee",
+      "Austin S McCoy",
+      "Soon-Jo Chung"
+    ],
+    "volume": "6",
+    "issue": "55",
+    "domains": [
+      "Navigation",
+      "Perception",
+      "Aerial Robotics"
+    ],
+    "methods": [
+      "Supervised Learning",
+      "Domain Adaptation"
+    ],
+    "type": "Research Article",
+    "summary": "Learns a transform that strips seasonal appearance from aerial imagery so classical geometric registration still localizes under snow or new foliage.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abf3320"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/34162743",
+      "https://api.crossref.org/works/10.1126/scirobotics.abf3320"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "An autonomous drone for search and rescue in forests using airborne optical sectioning",
+    "doi": "10.1126/scirobotics.abg1188",
+    "date": "2021-06-23",
+    "authors": [
+      "D C Schedl",
+      "I Kurmi",
+      "O Bimber"
+    ],
+    "volume": "6",
+    "issue": "55",
+    "domains": [
+      "Aerial Robotics",
+      "Perception",
+      "Field Robotics"
+    ],
+    "methods": [
+      "Supervised Learning",
+      "Learning-Based Perception"
+    ],
+    "type": "Research Article",
+    "summary": "Runs deep person classification on computationally defocused thermal images onboard and resamples low-confidence spots, finding 38 of 42 hidden people in forest trials.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abg1188",
+      "code": "https://github.com/JKU-ICG/AOS",
+      "open": "https://arxiv.org/abs/2105.04328"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/34162744",
+      "https://api.crossref.org/works/10.1126/scirobotics.abg1188"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "An autonomous excavator system for material loading tasks",
+    "doi": "10.1126/scirobotics.abc3164",
+    "date": "2021-06-23",
+    "authors": [
+      "Liangjun Zhang",
+      "Jinxin Zhao",
+      "Pinxin Long",
+      "Liyang Wang",
+      "Lingfeng Qian",
+      "Feixiang Lu",
+      "Xibin Song",
+      "Dinesh Manocha"
+    ],
+    "volume": "6",
+    "issue": "55",
+    "domains": [
+      "Field Robotics",
+      "Manipulation",
+      "Perception"
+    ],
+    "methods": [
+      "Learning-Based Perception",
+      "Supervised Learning",
+      "Hybrid Methods"
+    ],
+    "type": "Research Article",
+    "summary": "Combines learned material and object recognition with optimization-based task and motion planning for continuous excavator loading.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abc3164"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/34193561",
+      "https://api.crossref.org/works/10.1126/scirobotics.abc3164"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Learning where to trust unreliable models in an unstructured world for deformable object manipulation",
+    "doi": "10.1126/scirobotics.abd8170",
+    "date": "2021-05-12",
+    "authors": [
+      "P Mitrano",
+      "D McConachie",
+      "D Berenson"
+    ],
+    "volume": "6",
+    "issue": "54",
+    "domains": [
+      "Manipulation",
+      "Control"
+    ],
+    "methods": [
+      "Model-Based Learning",
+      "Supervised Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Learns a dynamics model for rope manipulation plus a classifier that says when that model should not be trusted during planning.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abd8170",
+      "code": "https://github.com/UM-ARM-Lab/unreliable-deform-manipulation"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/34043537",
+      "https://api.crossref.org/works/10.1126/scirobotics.abd8170"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Modeling, learning, perception, and control methods for deformable object manipulation",
+    "doi": "10.1126/scirobotics.abd8803",
+    "date": "2021-05-12",
+    "authors": [
+      "Hang Yin",
+      "Anastasia Varava",
+      "Danica Kragic"
+    ],
+    "volume": "6",
+    "issue": "54",
+    "domains": [
+      "Manipulation",
+      "Perception",
+      "Control"
+    ],
+    "methods": [
+      "Supervised Learning",
+      "Reinforcement Learning",
+      "Learning-Based Perception"
+    ],
+    "type": "Review / Perspective",
+    "summary": "Surveys over a hundred studies on deformable object manipulation, using a learning perspective to unify analytical and data-driven approaches.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abd8803"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/34043538",
+      "https://api.crossref.org/works/10.1126/scirobotics.abd8803"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Toward next-generation learned robot manipulation",
+    "doi": "10.1126/scirobotics.abd9461",
+    "date": "2021-05-12",
+    "authors": [
+      "Jinda Cui",
+      "Jeff Trinkle"
+    ],
+    "volume": "6",
+    "issue": "54",
+    "domains": [
+      "Manipulation",
+      "Dexterous Manipulation"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Other Imitation Learning",
+      "Adaptive Learning"
+    ],
+    "type": "Review / Perspective",
+    "summary": "Organizes learned manipulation research around the kinds of variation robots meet in human environments and what adaptability each method buys.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abd9461"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/34043539",
+      "https://api.crossref.org/works/10.1126/scirobotics.abd9461"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Reinforcement learning with artificial microswimmers",
+    "doi": "10.1126/scirobotics.abd9285",
+    "date": "2021-03-17",
+    "authors": [
+      "S Muiños-Landin",
+      "A Fischer",
+      "V Holubec",
+      "F Cichos"
+    ],
+    "volume": "6",
+    "issue": "52",
+    "domains": [
+      "Control",
+      "Robot Design"
+    ],
+    "methods": [
+      "Reinforcement Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Applies reinforcement learning to real thermophoretic microswimmers, which learn to navigate despite Brownian motion scrambling their heading.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abd9285",
+      "open": "https://arxiv.org/abs/1803.06425"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/34043550",
+      "https://api.crossref.org/works/10.1126/scirobotics.abd9285"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Soft magnetic skin for super-resolution tactile sensing with force self-decoupling",
+    "doi": "10.1126/scirobotics.abc8801",
+    "date": "2021-02-24",
+    "authors": [
+      "Youcan Yan",
+      "Zhe Hu",
+      "Zhengbao Yang",
+      "Wenzhen Yuan",
+      "Chaoyang Song",
+      "Jia Pan",
+      "Yajing Shen"
+    ],
+    "volume": "6",
+    "issue": "51",
+    "domains": [
+      "Perception",
+      "Manipulation"
+    ],
+    "methods": [
+      "Supervised Learning",
+      "Learning-Based Perception"
+    ],
+    "type": "Research Article",
+    "summary": "Decouples normal and shear force in a single magnetic film unit and uses deep learning for a sixtyfold gain in contact-position accuracy.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abc8801"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/34043530",
+      "https://api.crossref.org/works/10.1126/scirobotics.abc8801"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Heterogeneous sensing in a multifunctional soft sensor for human-robot interfaces",
+    "doi": "10.1126/scirobotics.abc6878",
+    "date": "2020-12-16",
+    "authors": [
+      "Taekyoung Kim",
+      "Sudong Lee",
+      "Taehwa Hong",
+      "Gyowook Shin",
+      "Taehwan Kim",
+      "Yong-Lae Park"
+    ],
+    "volume": "5",
+    "issue": "49",
+    "domains": [
+      "Perception",
+      "Human–Robot Interaction",
+      "Soft Robotics"
+    ],
+    "methods": [
+      "Supervised Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Separates stretch, bend and compression in one compact soft sensor by training a neural network on optical, microfluidic and piezoresistive channels.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abc6878"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/33328297",
+      "https://api.crossref.org/works/10.1126/scirobotics.abc6878"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Multi-expert learning of adaptive legged locomotion",
+    "doi": "10.1126/scirobotics.abb2174",
+    "date": "2020-12-16",
+    "authors": [
+      "Chuanyu Yang",
+      "Kai Yuan",
+      "Qiuguo Zhu",
+      "Wanming Yu",
+      "Zhibin Li"
+    ],
+    "volume": "5",
+    "issue": "49",
+    "domains": [
+      "Locomotion",
+      "Control"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Hierarchical Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Blends pretrained expert networks through a gating network to synthesize new locomotion skills online as conditions change.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abb2174",
+      "open": "https://arxiv.org/abs/2012.05810"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/33298515",
+      "https://api.crossref.org/works/10.1126/scirobotics.abb2174"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Skin-inspired quadruple tactile sensors integrated on a robot hand enable object recognition",
+    "doi": "10.1126/scirobotics.abc8134",
+    "date": "2020-12-16",
+    "authors": [
+      "Guozhen Li",
+      "Shiqiang Liu",
+      "Liangqi Wang",
+      "Rong Zhu"
+    ],
+    "volume": "5",
+    "issue": "49",
+    "domains": [
+      "Perception",
+      "Manipulation"
+    ],
+    "methods": [
+      "Supervised Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Combines pressure, thermal-conductivity and temperature channels with machine learning so a gripper identifies object material and sorts waste at 94 percent accuracy.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abc8134"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/33328298",
+      "https://api.crossref.org/works/10.1126/scirobotics.abc8134"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Deep learning can accelerate grasp-optimized motion planning",
+    "doi": "10.1126/scirobotics.abd7710",
+    "date": "2020-11-18",
+    "authors": [
+      "Jeffrey Ichnowski",
+      "Yahav Avigal",
+      "Vishal Satish",
+      "Ken Goldberg",
+      "Ken Goldberg"
+    ],
+    "volume": "5",
+    "issue": "48",
+    "domains": [
+      "Manipulation",
+      "Control"
+    ],
+    "methods": [
+      "Supervised Learning",
+      "Learning-Based Optimization"
+    ],
+    "type": "Research Article",
+    "summary": "Warm-starts a trajectory optimizer with an approximate network prediction, cutting compute for warehouse pick motions while keeping feasibility.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abd7710",
+      "project": "https://berkeleyautomation.github.io/dj-gomp/"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/33208523",
+      "https://api.crossref.org/works/10.1126/scirobotics.abd7710"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "A memristor-based hybrid analog-digital computing platform for mobile robotics",
+    "doi": "10.1126/scirobotics.abb6938",
+    "date": "2020-10-21",
+    "authors": [
+      "Buyun Chen",
+      "Hao Yang",
+      "Boxiang Song",
+      "Deming Meng",
+      "Xiaodong Yan",
+      "Yuanrui Li",
+      "Yunxiang Wang",
+      "Pan Hu",
+      "Tse-Hsien Ou",
+      "Mark Barnell",
+      "Qing Wu",
+      "Han Wang",
+      "Wei Wu"
+    ],
+    "volume": "5",
+    "issue": "47",
+    "domains": [
+      "Control",
+      "Perception"
+    ],
+    "methods": [
+      "Neuromorphic Learning",
+      "Learning-Based Optimization"
+    ],
+    "type": "Research Article",
+    "summary": "Tunes memristor conductances by model-free optimization to run sensor fusion and balance control an order of magnitude more efficiently than digital hardware.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abb6938"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/33087481",
+      "https://api.crossref.org/works/10.1126/scirobotics.abb6938"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Learning quadrupedal locomotion over challenging terrain",
+    "doi": "10.1126/scirobotics.abc5986",
+    "date": "2020-10-21",
+    "authors": [
+      "Joonho Lee",
+      "Jemin Hwangbo",
+      "Lorenz Wellhausen",
+      "Vladlen Koltun",
+      "Marco Hutter"
+    ],
+    "volume": "5",
+    "issue": "47",
+    "domains": [
+      "Locomotion",
+      "Control"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Policy Distillation"
+    ],
+    "type": "Research Article",
+    "summary": "Trains a blind proprioceptive policy in simulation that transfers zero-shot to mud, snow and running water.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abc5986",
+      "open": "https://arxiv.org/abs/2010.11251"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/33087482",
+      "https://api.crossref.org/works/10.1126/scirobotics.abc5986"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "An adaptive deep reinforcement learning framework enables curling robots with human-like performance in real-world conditions",
+    "doi": "10.1126/scirobotics.abb9764",
+    "date": "2020-09-30",
+    "authors": [
+      "Dong-Ok Won",
+      "Klaus-Robert Müller",
+      "Seong-Whan Lee"
+    ],
+    "volume": "5",
+    "issue": "46",
+    "domains": [
+      "Control",
+      "Perception"
+    ],
+    "methods": [
+      "Reinforcement Learning",
+      "Domain Adaptation"
+    ],
+    "type": "Research Article",
+    "summary": "Extends deep reinforcement learning with temporal features that absorb ice nonstationarity, letting a curling robot win three of four matches against expert human teams.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.abb9764"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/32967991",
+      "https://api.crossref.org/works/10.1126/scirobotics.abb9764"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Electronic skins and machine learning for intelligent soft robots",
+    "doi": "10.1126/scirobotics.aaz9239",
+    "date": "2020-04-22",
+    "authors": [
+      "Benjamin Shih",
+      "Dylan Shah",
+      "Jinxing Li",
+      "Thomas G Thuruthel",
+      "Yong-Lae Park",
+      "Fumiya Iida",
+      "Zhenan Bao",
+      "Rebecca Kramer-Bottiglio",
+      "Michael T Tolley"
+    ],
+    "volume": "5",
+    "issue": "41",
+    "domains": [
+      "Soft Robotics",
+      "Perception"
+    ],
+    "methods": [
+      "Supervised Learning",
+      "Learning-Based Perception"
+    ],
+    "type": "Review / Perspective",
+    "summary": "Reviews how stretchable sensor arrays and machine learning together give soft robots usable touch and proprioception.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.aaz9239"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/33022628",
+      "https://api.crossref.org/works/10.1126/scirobotics.aaz9239"
+    ],
+    "verification": {
+      "metadata": "Europe PMC; Crossref",
+      "relevance": "Author abstract screened",
+      "cover": "Not yet verified"
+    }
+  },
+  {
+    "title": "Modeling engagement in long-term, in-home socially assistive robot interventions for children with autism spectrum disorders",
+    "doi": "10.1126/scirobotics.aaz3791",
+    "date": "2020-02-26",
+    "authors": [
+      "Shomik Jain",
+      "Balasubramanian Thiagarajan",
+      "Zhonghao Shi",
+      "Caitlyn Clabaugh",
+      "Maja J Matarić"
+    ],
+    "volume": "5",
+    "issue": "39",
+    "domains": [
+      "Human–Robot Interaction"
+    ],
+    "methods": [
+      "Supervised Learning"
+    ],
+    "type": "Research Article",
+    "summary": "Trains generalized and per-child engagement classifiers from month-long in-home sessions, reaching about 90 percent AUROC despite high variance across users.",
+    "cover": {
+      "status": "pending",
+      "sources": []
+    },
+    "links": {
+      "paper": "https://doi.org/10.1126/scirobotics.aaz3791",
+      "open": "https://arxiv.org/abs/2002.02453"
+    },
+    "sources": [
+      "https://europepmc.org/article/MED/33022604",
+      "https://api.crossref.org/works/10.1126/scirobotics.aaz3791"
     ],
     "verification": {
       "metadata": "Europe PMC; Crossref",
