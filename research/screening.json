@@ -1,0 +1,3152 @@
+[
+  {
+    "doi": "10.1126/scirobotics.aed4106",
+    "title": "Robot in a crib: How a playing robot helps us understand sensorimotor contingency learning.",
+    "date": "2026-08-26",
+    "volume": "11",
+    "issue": "117",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aec7205",
+    "title": "Convergent binocular stereo: Depth perception for humanoid robot vision.",
+    "date": "2026-08-26",
+    "volume": "11",
+    "issue": "117",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adx8924",
+    "title": "BeyondMimic: From motion tracking to versatile humanoid control via guided diffusion.",
+    "date": "2026-08-26",
+    "volume": "11",
+    "issue": "117",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aek7970",
+    "title": "From acrobatics to generality: Humanoid robots at an inflection point.",
+    "date": "2026-08-26",
+    "volume": "11",
+    "issue": "117",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aek6923",
+    "title": "Are humanoid robots in 2035 more fiction than science?",
+    "date": "2026-08-19",
+    "volume": "11",
+    "issue": "117",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aed1152",
+    "title": "Learning vision-driven reactive soccer skills for humanoid robots.",
+    "date": "2026-08-19",
+    "volume": "11",
+    "issue": "117",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aed3973",
+    "title": "Evolution of humanoid locomotion control.",
+    "date": "2026-08-19",
+    "volume": "11",
+    "issue": "117",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aed4592",
+    "title": "SONIC: Supersizing motion tracking for natural humanoid whole-body control.",
+    "date": "2026-08-12",
+    "volume": "11",
+    "issue": "117",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aec7695",
+    "title": "ZEST: Zero-shot embodied skill transfer for athletic robot control.",
+    "date": "2026-08-12",
+    "volume": "11",
+    "issue": "117",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aee2921",
+    "title": "Physical AI is enabled by mechanical hardware.",
+    "date": "2026-08-12",
+    "volume": "11",
+    "issue": "117",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aed5865",
+    "title": "Ultra-wideband radar to measure in vivo muscle forces.",
+    "date": "2026-07-29",
+    "volume": "11",
+    "issue": "116",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aee0787",
+    "title": "Advances, challenges, and opportunities for legged robots.",
+    "date": "2026-07-29",
+    "volume": "11",
+    "issue": "116",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aec1762",
+    "title": "Multilevel dynamics of the brain, hormones, mind, and behavior in social human-robot interaction.",
+    "date": "2026-07-29",
+    "volume": "11",
+    "issue": "116",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aej8562",
+    "title": "Toward measurement of muscle forces during movement.",
+    "date": "2026-07-29",
+    "volume": "11",
+    "issue": "116",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aej9331",
+    "title": "Is a robot a tool or an agent?",
+    "date": "2026-07-29",
+    "volume": "11",
+    "issue": "116",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aei2397",
+    "title": "Beyond imitation: Robots that learn to work in the real world.",
+    "date": "2026-07-22",
+    "volume": "11",
+    "issue": "116",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aed6267",
+    "title": "Performant robotic manipulation with real-world reinforcement learning.",
+    "date": "2026-07-22",
+    "volume": "11",
+    "issue": "116",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aea7639",
+    "title": "Bioinspired multimodal robotics.",
+    "date": "2026-07-22",
+    "volume": "11",
+    "issue": "116",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aej7903",
+    "title": "Erratum for the Research Article \"Observing a robot peer's failures facilitates students' classroom learning\".",
+    "date": "2026-07-15",
+    "volume": "11",
+    "issue": "116",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adz7130",
+    "title": "Allocentric teleoperation for variable perspective multirobot coordination.",
+    "date": "2026-07-15",
+    "volume": "11",
+    "issue": "116",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adz7397",
+    "title": "Agile perceptive multiskill locomotion for quadrupedal robots in the wild.",
+    "date": "2026-07-15",
+    "volume": "11",
+    "issue": "116",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aei9833",
+    "title": "Is your robot vacuum cleaner spying on you?",
+    "date": "2026-06-24",
+    "volume": "11",
+    "issue": "115",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aei3152",
+    "title": "DNA origami snaps into place.",
+    "date": "2026-06-24",
+    "volume": "11",
+    "issue": "115",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aej7866",
+    "title": "Learning flight navigation like a honey bee.",
+    "date": "2026-06-24",
+    "volume": "11",
+    "issue": "115",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aec7796",
+    "title": "A high-endurance DNA origami snap-through switch for functional nanoscale control.",
+    "date": "2026-06-24",
+    "volume": "11",
+    "issue": "115",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adz9628",
+    "title": "Therapist-exoskeleton-patient interaction for gait therapy.",
+    "date": "2026-06-17",
+    "volume": "11",
+    "issue": "115",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aec6663",
+    "title": "Stop chasing identical outcomes in HRI replication: Learn from the differences.",
+    "date": "2026-06-17",
+    "volume": "11",
+    "issue": "115",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aej6133",
+    "title": "Do people feel safe in a robot's presence?",
+    "date": "2026-06-17",
+    "volume": "11",
+    "issue": "115",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeb0180",
+    "title": "Precise aggressive aerial maneuvers with sensorimotor policies.",
+    "date": "2026-06-10",
+    "volume": "11",
+    "issue": "115",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeg2985",
+    "title": "Translational bottlenecks for biohybrid microrobots.",
+    "date": "2026-06-10",
+    "volume": "11",
+    "issue": "115",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aec8039",
+    "title": "From ball to rover: Transformable palm-sized rover SORA-Q for autonomous lunar exploration.",
+    "date": "2026-06-10",
+    "volume": "11",
+    "issue": "115",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aed4569",
+    "title": "Embodied or virtually represented: Navigating the embodiment debate in human-robot interaction.",
+    "date": "2026-05-27",
+    "volume": "11",
+    "issue": "114",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aej0223",
+    "title": "Fusing LiDAR and vision to generate high-quality reconstructions.",
+    "date": "2026-05-27",
+    "volume": "11",
+    "issue": "114",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aei3965",
+    "title": "The Moon needs robots.",
+    "date": "2026-05-27",
+    "volume": "11",
+    "issue": "114",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aec1725",
+    "title": "Extreme dynamic symmetry enables omnidirectional and multifunctional robots.",
+    "date": "2026-05-27",
+    "volume": "11",
+    "issue": "114",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu0590",
+    "title": "A minimally invasive robotic spinal surgical system for anterior lumbar nerve decompression.",
+    "date": "2026-05-27",
+    "volume": "11",
+    "issue": "114",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeh6422",
+    "title": "\"Humanoids will soon replace most human workers\": A debate.",
+    "date": "2026-05-20",
+    "volume": "11",
+    "issue": "114",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aei1219",
+    "title": "Acceptance of humanoid robots: A psychological perspective.",
+    "date": "2026-05-20",
+    "volume": "11",
+    "issue": "114",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aei8549",
+    "title": "Shape-morphing metamaterials with continuous relearning.",
+    "date": "2026-05-20",
+    "volume": "11",
+    "issue": "114",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aec6393",
+    "title": "Cross-link collective: Entangled robotic matter with cohesive motion.",
+    "date": "2026-05-20",
+    "volume": "11",
+    "issue": "114",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adx9939",
+    "title": "Autonomous seeking and mapping coral reef biodiversity hotspots with a multimodal AUV.",
+    "date": "2026-05-13",
+    "volume": "11",
+    "issue": "114",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aec1481",
+    "title": "RAPTOR: A foundation policy for quadrotor control.",
+    "date": "2026-05-13",
+    "volume": "11",
+    "issue": "114",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aef2191",
+    "title": "Beyond alignment: Why robotic foundation models need context-aware safety.",
+    "date": "2026-04-29",
+    "volume": "11",
+    "issue": "113",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeh4374",
+    "title": "Transfer learning in robotics: From promises to practice through the emerging role of foundation models.",
+    "date": "2026-04-29",
+    "volume": "11",
+    "issue": "113",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aea2092",
+    "title": "A retrieval-augmented framework enabling VLM spatial awareness for object-centric robot manipulation.",
+    "date": "2026-04-29",
+    "volume": "11",
+    "issue": "113",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adz1543",
+    "title": "How foundation models will revolutionize robot swarms.",
+    "date": "2026-04-29",
+    "volume": "11",
+    "issue": "113",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aei2046",
+    "title": "Dexterous grasping with an active palm.",
+    "date": "2026-04-29",
+    "volume": "11",
+    "issue": "113",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aea1762",
+    "title": "Object-centric task representation and transfer using diffused orientation fields.",
+    "date": "2026-04-22",
+    "volume": "11",
+    "issue": "113",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeh3279",
+    "title": "Robot farm elegy.",
+    "date": "2026-04-22",
+    "volume": "11",
+    "issue": "113",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aei0811",
+    "title": "Designing microrobots with embodied physical intelligence.",
+    "date": "2026-04-22",
+    "volume": "11",
+    "issue": "113",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aea1822",
+    "title": "From autonomy to alliance: Robotic foundation models must learn with us, not just for us.",
+    "date": "2026-04-22",
+    "volume": "11",
+    "issue": "113",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aea1995",
+    "title": "Demonstrate once, execute on many: Kinematic intelligence for cross-robot skill transfer.",
+    "date": "2026-04-15",
+    "volume": "11",
+    "issue": "113",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aea6201",
+    "title": "A careful examination of large behavior models for multitask dexterous manipulation.",
+    "date": "2026-04-15",
+    "volume": "11",
+    "issue": "113",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ady6438",
+    "title": "Electrofluidic fiber muscles.",
+    "date": "2026-03-25",
+    "volume": "11",
+    "issue": "112",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adz9609",
+    "title": "Milliwatt ultrasound for navigation in visually degraded environments on palm-sized aerial robots.",
+    "date": "2026-03-25",
+    "volume": "11",
+    "issue": "112",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aed1926",
+    "title": "Driver's licenses for autonomous systems.",
+    "date": "2026-03-25",
+    "volume": "11",
+    "issue": "112",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aef8847",
+    "title": "The forgotten spectrum: Reviving ultrasound for robust autonomy.",
+    "date": "2026-03-25",
+    "volume": "11",
+    "issue": "112",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adv2250",
+    "title": "Cross-robot behavior adaptation through intention alignment.",
+    "date": "2026-03-18",
+    "volume": "11",
+    "issue": "112",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeh1283",
+    "title": "Origami-inspired grasper for safe tissue manipulation.",
+    "date": "2026-03-18",
+    "volume": "11",
+    "issue": "112",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeg2324",
+    "title": "Neurorobotics may make a smarter, but not happier, robot.",
+    "date": "2026-03-18",
+    "volume": "11",
+    "issue": "112",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adx7524",
+    "title": "Fly motion vision maximizes signal energy transfer between mechanical input and sensor output.",
+    "date": "2026-03-11",
+    "volume": "11",
+    "issue": "112",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeb1901",
+    "title": "Robot-mediated haptic feedback outperforms vision in violin duo coordination.",
+    "date": "2026-03-11",
+    "volume": "11",
+    "issue": "112",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeg9510",
+    "title": "Vibrotactile feedback aids prosthesis usability.",
+    "date": "2026-03-11",
+    "volume": "11",
+    "issue": "112",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aef2586",
+    "title": "Would you give four stars to a restaurant entirely staffed by robots?",
+    "date": "2026-02-25",
+    "volume": "11",
+    "issue": "111",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adz1999",
+    "title": "Modular reconfigurable robots: Toward on-demand multifunctional applications.",
+    "date": "2026-02-25",
+    "volume": "11",
+    "issue": "111",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeg5538",
+    "title": "Collision-tolerant deformable quadrotor arms.",
+    "date": "2026-02-25",
+    "volume": "11",
+    "issue": "111",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ady9635",
+    "title": "Low-voltage and high-output dielectric elastomer actuators for untethered soft machines working at 200 volts.",
+    "date": "2026-02-18",
+    "volume": "11",
+    "issue": "111",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeg3450",
+    "title": "Grasshopper-inspired wing design improves gliding performance.",
+    "date": "2026-02-18",
+    "volume": "11",
+    "issue": "111",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aee0269",
+    "title": "The codevelopment of soft robotics and assistive technology.",
+    "date": "2026-02-18",
+    "volume": "11",
+    "issue": "111",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ady6304",
+    "title": "Scalable robot collective resilience by sharing resources.",
+    "date": "2026-02-11",
+    "volume": "11",
+    "issue": "111",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adx0715",
+    "title": "Bioinspired adaptive pupil reflex based on liquid-metal shape-shifters for machine vision.",
+    "date": "2026-02-11",
+    "volume": "11",
+    "issue": "111",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ady2869",
+    "title": "Visual-tactile pretraining and online multitask learning for humanlike manipulation dexterity.",
+    "date": "2026-01-28",
+    "volume": "11",
+    "issue": "110",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aee3862",
+    "title": "Is intermittent swimming lazy or clever? ",
+    "date": "2026-01-28",
+    "volume": "11",
+    "issue": "110",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aee5782",
+    "title": "Within arm's reach: A path forward for robot dexterity. ",
+    "date": "2026-01-28",
+    "volume": "11",
+    "issue": "110",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adw7868",
+    "title": "Energy efficiency and neural control of continuous versus intermittent swimming in a fishlike robot.",
+    "date": "2026-01-28",
+    "volume": "11",
+    "issue": "110",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ady7233",
+    "title": "Architectural swarms for responsive façades and creative expression.",
+    "date": "2026-01-21",
+    "volume": "11",
+    "issue": "110",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aef4218",
+    "title": "A self-guided intubation device.",
+    "date": "2026-01-21",
+    "volume": "11",
+    "issue": "110",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aef4236",
+    "title": "Lightweight haptic ring delivers high force feedback.",
+    "date": "2026-01-21",
+    "volume": "11",
+    "issue": "110",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adx3017",
+    "title": "Learning realistic lip motions for humanoid face robots.",
+    "date": "2026-01-14",
+    "volume": "11",
+    "issue": "110",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adx7359",
+    "title": "Autonomous robotic intraocular surgery for targeted retinal injections.",
+    "date": "2026-01-14",
+    "volume": "11",
+    "issue": "110",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aee7991",
+    "title": "Reconfigurable aerial robot for subterranean mine inspection.",
+    "date": "2025-12-24",
+    "volume": "10",
+    "issue": "109",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aee0315",
+    "title": "Robots do not like Asimov's three laws.",
+    "date": "2025-12-24",
+    "volume": "10",
+    "issue": "109",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adl2266",
+    "title": "Efficacy and effectiveness of robot-assisted therapy for autism spectrum disorder: From lab to reality.",
+    "date": "2025-12-24",
+    "volume": "10",
+    "issue": "109",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adx2549",
+    "title": "Soft deployable airless wheel for lunar lava tube intact exploration.",
+    "date": "2025-12-17",
+    "volume": "10",
+    "issue": "109",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adw2969",
+    "title": "Deep learning-based autonomous retinal vein cannulation in ex vivo porcine eyes.",
+    "date": "2025-12-17",
+    "volume": "10",
+    "issue": "109",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adz6787",
+    "title": "How reliable is robotic manipulation in the real world?",
+    "date": "2025-12-17",
+    "volume": "10",
+    "issue": "109",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aee5779",
+    "title": "Learning robot behavior from human-human interactions.",
+    "date": "2025-12-17",
+    "volume": "10",
+    "issue": "109",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adv1818",
+    "title": "Resilient odometry via hierarchical adaptation.",
+    "date": "2025-12-10",
+    "volume": "10",
+    "issue": "109",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu8009",
+    "title": "Microscopic robots that sense, think, act, and compute.",
+    "date": "2025-12-10",
+    "volume": "10",
+    "issue": "109",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aed6461",
+    "title": "Jump, recharge, repeat: Insect-inspired jumping robots and the challenge of energy harvesting.",
+    "date": "2025-12-10",
+    "volume": "10",
+    "issue": "109",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adv4696",
+    "title": "Foldable and rollable interlaced structure for deployable robotic systems.",
+    "date": "2025-11-26",
+    "volume": "10",
+    "issue": "108",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aed8734",
+    "title": "Adaptive humanlike grasping.",
+    "date": "2025-11-26",
+    "volume": "10",
+    "issue": "108",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adv0496",
+    "title": "Robotic manipulation of human bipedalism reveals overlapping internal representations of space and time.",
+    "date": "2025-11-26",
+    "volume": "10",
+    "issue": "108",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aec3393",
+    "title": "Sight Guide demonstrates robotics-inspired vision assistance at the Cybathlon.",
+    "date": "2025-11-26",
+    "volume": "10",
+    "issue": "108",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aed6762",
+    "title": "Robotic cross-pollination of genetically modified flowers.",
+    "date": "2025-11-19",
+    "volume": "10",
+    "issue": "108",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aed1537",
+    "title": "The robots in <i>Superman</i> and <i>The Fantastic Four: First Steps</i> are as amazing as the superheroes.",
+    "date": "2025-11-19",
+    "volume": "10",
+    "issue": "108",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aec6029",
+    "title": "Erratum for the Research Article \"A lightweight robotic leg prosthesis replicating the biomechanics of the knee, ankle, and toe joint\" by M. Tran <i>et al</i>.",
+    "date": "2025-11-19",
+    "volume": "10",
+    "issue": "108",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adx1519",
+    "title": "Metamaterial robotics.",
+    "date": "2025-11-19",
+    "volume": "10",
+    "issue": "108",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads8652",
+    "title": "Deep domain adaptation eliminates costly data required for task-agnostic wearable robotic control.",
+    "date": "2025-11-19",
+    "volume": "10",
+    "issue": "108",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adv7594",
+    "title": "Learning a thousand tasks in a day.",
+    "date": "2025-11-12",
+    "volume": "10",
+    "issue": "108",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adx3883",
+    "title": "The microDelta: Downscaling robot mechanisms enables ultrafast and high-precision movement.",
+    "date": "2025-11-12",
+    "volume": "10",
+    "issue": "108",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu8015",
+    "title": "Agile and cooperative aerial manipulation of a cable-suspended load.",
+    "date": "2025-10-29",
+    "volume": "10",
+    "issue": "107",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeb2655",
+    "title": "Team BeAGain's journey toward Cybathlon 2024 and holistic mobility with a robotic rehabilitation bicycle.",
+    "date": "2025-10-29",
+    "volume": "10",
+    "issue": "107",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeb6725",
+    "title": "Shared control in assistive robotics: A Cybathlon-winning approach.",
+    "date": "2025-10-29",
+    "volume": "10",
+    "issue": "107",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeb6485",
+    "title": "The Omnia bionic leg with a semipowered knee and ankle wins the Cybathlon 2024 leg prosthesis race.",
+    "date": "2025-10-29",
+    "volume": "10",
+    "issue": "107",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu3679",
+    "title": "Spring-loaded DNA origami arrays as energy-supplied hardware for modular nanorobots.",
+    "date": "2025-10-22",
+    "volume": "10",
+    "issue": "107",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adw8905",
+    "title": "Bioinspired photoresponsive soft robotic lens.",
+    "date": "2025-10-22",
+    "volume": "10",
+    "issue": "107",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adx1367",
+    "title": "An ingestible capsule for luminance-based diagnosis of mesenteric ischemia.",
+    "date": "2025-10-22",
+    "volume": "10",
+    "issue": "107",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu4003",
+    "title": "Flow-driven magnetic microcatheter for superselective arterial embolization.",
+    "date": "2025-10-22",
+    "volume": "10",
+    "issue": "107",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adv4408",
+    "title": "Artificial embodied circuits uncover neural architectures of vertebrate visuomotor behaviors.",
+    "date": "2025-10-15",
+    "volume": "10",
+    "issue": "107",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adv1383",
+    "title": "Tactile displays driven by projected light.",
+    "date": "2025-10-15",
+    "volume": "10",
+    "issue": "107",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeb6685",
+    "title": "Lowly fly or impressive miniature robot?",
+    "date": "2025-09-24",
+    "volume": "10",
+    "issue": "106",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adv7932",
+    "title": "Accelerating discovery in natural science laboratories with AI and robotics: Perspectives and challenges.",
+    "date": "2025-09-24",
+    "volume": "10",
+    "issue": "106",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adv4049",
+    "title": "Extending robot minds through collective learning.",
+    "date": "2025-09-24",
+    "volume": "10",
+    "issue": "106",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu4851",
+    "title": "Miniature magneto-ultrasonic machines for wireless robotic sensing and manipulation.",
+    "date": "2025-09-17",
+    "volume": "10",
+    "issue": "106",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aea9377",
+    "title": "Arm prosthesis with dexterous control and sensory feedback delivers winning performance at Cybathlon.",
+    "date": "2025-09-17",
+    "volume": "10",
+    "issue": "106",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt1497",
+    "title": "A review of learning-based dynamics models for robotic manipulation.",
+    "date": "2025-09-17",
+    "volume": "10",
+    "issue": "106",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aeb1340",
+    "title": "BCIT's BEAST wheelchair takes on Cybathlon with power, precision, and pilot-led design.",
+    "date": "2025-09-17",
+    "volume": "10",
+    "issue": "106",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu5257",
+    "title": "Observing a robot peer's failures facilitates students' classroom learning.",
+    "date": "2025-09-10",
+    "volume": "10",
+    "issue": "106",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu5771",
+    "title": "Robotic reading companions can mitigate oral reading anxiety in children.",
+    "date": "2025-09-10",
+    "volume": "10",
+    "issue": "106",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu6123",
+    "title": "How can educational robots enhance family life? Through careful integration.",
+    "date": "2025-09-10",
+    "volume": "10",
+    "issue": "106",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads1204",
+    "title": "RoboBallet: Planning for multirobot reaching with graph neural networks and reinforcement learning.",
+    "date": "2025-09-03",
+    "volume": "10",
+    "issue": "106",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu5830",
+    "title": "Optogenetic neuromuscular actuation of a miniature electronic biohybrid robot.",
+    "date": "2025-09-03",
+    "volume": "10",
+    "issue": "106",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aea7390",
+    "title": "Good old-fashioned engineering can close the 100,000-year \"data gap\" in robotics.",
+    "date": "2025-08-27",
+    "volume": "10",
+    "issue": "105",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aea7897",
+    "title": "\"Data will solve robotics and automation: True or false?\": A debate.",
+    "date": "2025-08-27",
+    "volume": "10",
+    "issue": "105",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adv3604",
+    "title": "Attention-based map encoding for learning generalized legged locomotion.",
+    "date": "2025-08-27",
+    "volume": "10",
+    "issue": "105",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu2381",
+    "title": "Explosion-powered eversible tactile displays.",
+    "date": "2025-08-27",
+    "volume": "10",
+    "issue": "105",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads8528",
+    "title": "Embodied intelligence paradigm for human-robot communication.",
+    "date": "2025-08-20",
+    "volume": "10",
+    "issue": "105",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads5033",
+    "title": "Precise and dexterous robotic manipulation via human-in-the-loop reinforcement learning.",
+    "date": "2025-08-20",
+    "volume": "10",
+    "issue": "105",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu6007",
+    "title": "Si chiplet-controlled 3D modular microrobots with smart communication in natural aqueous environments.",
+    "date": "2025-08-20",
+    "volume": "10",
+    "issue": "105",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads6790",
+    "title": "Learning contact-rich whole-body manipulation with example-guided reinforcement learning.",
+    "date": "2025-08-20",
+    "volume": "10",
+    "issue": "105",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt8054",
+    "title": "Plasticized electrohydraulic robot autopilots in the deep sea.",
+    "date": "2025-08-13",
+    "volume": "10",
+    "issue": "105",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt7461",
+    "title": "Robotically steerable guidewires-Current trends and future directions.",
+    "date": "2025-08-13",
+    "volume": "10",
+    "issue": "105",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.aea7372",
+    "title": "Robots in science fiction unload assumptions about freight logistics.",
+    "date": "2025-08-13",
+    "volume": "10",
+    "issue": "105",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adj9699",
+    "title": "Cooperative robotic exploration of a planetary skylight surface and lava cave.",
+    "date": "2025-08-13",
+    "volume": "10",
+    "issue": "105",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt7329",
+    "title": "AI in therapeutic and assistive exoskeletons and exosuits: Influences on performance and autonomy.",
+    "date": "2025-07-30",
+    "volume": "10",
+    "issue": "104",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt5338",
+    "title": "AI search, physician removal: Bronchoscopy robot bridges collaboration in foreign body aspiration.",
+    "date": "2025-07-30",
+    "volume": "10",
+    "issue": "104",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adz8291",
+    "title": "Medical robots learn to be autonomous.",
+    "date": "2025-07-30",
+    "volume": "10",
+    "issue": "104",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adz8279",
+    "title": "The grand challenges of learning medical robot autonomy.",
+    "date": "2025-07-30",
+    "volume": "10",
+    "issue": "104",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adz8966",
+    "title": "Knowledge before faith is the motto of a robot pope.",
+    "date": "2025-07-23",
+    "volume": "10",
+    "issue": "104",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt0187",
+    "title": "Will your next surgeon be a robot? Autonomy and AI in robotic surgery.",
+    "date": "2025-07-23",
+    "volume": "10",
+    "issue": "104",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt3093",
+    "title": "Surgical embodied intelligence for generalized task autonomy in laparoscopic robot-assisted surgery.",
+    "date": "2025-07-16",
+    "volume": "10",
+    "issue": "104",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt6471",
+    "title": "Equalizing access: How robotics and AI can transform surgical care worldwide.",
+    "date": "2025-07-16",
+    "volume": "10",
+    "issue": "104",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt1874",
+    "title": "Medical needles in the hands of AI: Advancing toward autonomous robotic navigation.",
+    "date": "2025-07-09",
+    "volume": "10",
+    "issue": "104",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt0684",
+    "title": "The robot will see you now: Foundation models are the path forward for autonomous robotic surgery.",
+    "date": "2025-07-09",
+    "volume": "10",
+    "issue": "104",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt5254",
+    "title": "SRT-H: A hierarchical framework for autonomous surgery via language-conditioned imitation learning.",
+    "date": "2025-07-09",
+    "volume": "10",
+    "issue": "104",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adz2721",
+    "title": "The greatest challenge for prosthetics may be social, not neural, connections.",
+    "date": "2025-06-25",
+    "volume": "10",
+    "issue": "103",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adq5046",
+    "title": "Forces for free: Vision-based contact force estimation with a compliant hand.",
+    "date": "2025-06-25",
+    "volume": "10",
+    "issue": "103",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt1591",
+    "title": "OpenExo: An open-source modular exoskeleton to augment human function.",
+    "date": "2025-06-25",
+    "volume": "10",
+    "issue": "103",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt0720",
+    "title": "Photocatalytic microrobots for treating bacterial infections deep within sinuses.",
+    "date": "2025-06-25",
+    "volume": "10",
+    "issue": "103",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads4551",
+    "title": "Hierarchically depicting vehicle trajectory with stability in complex environments.",
+    "date": "2025-06-18",
+    "volume": "10",
+    "issue": "103",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads6314",
+    "title": "Preventing pressure ulcers by increasing pressure: An unorthodox alternating-pressure mattress.",
+    "date": "2025-06-18",
+    "volume": "10",
+    "issue": "103",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads3968",
+    "title": "A compact neuromorphic system for ultra-energy-efficient, on-device robot localization.",
+    "date": "2025-06-18",
+    "volume": "10",
+    "issue": "103",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt5685",
+    "title": "Roboticists are grappling with space debris.",
+    "date": "2025-06-11",
+    "volume": "10",
+    "issue": "103",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adq2303",
+    "title": "Multimodal information structuring with single-layer soft skins and high-density electrical impedance tomography.",
+    "date": "2025-06-11",
+    "volume": "10",
+    "issue": "103",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu2394",
+    "title": "In situ foliar augmentation of multiple species for optical phenotyping and bioengineering using soft robotics.",
+    "date": "2025-06-11",
+    "volume": "10",
+    "issue": "103",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adx2731",
+    "title": "The multifaceted approach to embodied intelligence in robotics.",
+    "date": "2025-05-28",
+    "volume": "10",
+    "issue": "102",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu3922",
+    "title": "Learning coordinated badminton skills for legged manipulators.",
+    "date": "2025-05-28",
+    "volume": "10",
+    "issue": "102",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads6192",
+    "title": "High-speed control and navigation for quadrupedal robots on complex and discrete terrain.",
+    "date": "2025-05-28",
+    "volume": "10",
+    "issue": "102",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads1292",
+    "title": "Advancing physical intelligence for autonomous soft robots.",
+    "date": "2025-05-28",
+    "volume": "10",
+    "issue": "102",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads0200",
+    "title": "Embodied aerial physical interaction: Combining body and brain for robust interaction with unstructured environments.",
+    "date": "2025-05-21",
+    "volume": "10",
+    "issue": "102",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ady5090",
+    "title": "The robots in the Val Kilmer movie <i>Red Planet</i> predated Perseverance and Ingenuity.",
+    "date": "2025-05-21",
+    "volume": "10",
+    "issue": "102",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adw7660",
+    "title": "Physical control: A new avenue to achieve intelligence in soft robotics.",
+    "date": "2025-05-21",
+    "volume": "10",
+    "issue": "102",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi5582",
+    "title": "Autonomous surface sampling for the Europa Lander mission concept.",
+    "date": "2025-05-21",
+    "volume": "10",
+    "issue": "102",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr4264",
+    "title": "Embodying soft robots with octopus-inspired hierarchical suction intelligence.",
+    "date": "2025-05-14",
+    "volume": "10",
+    "issue": "102",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ady7192",
+    "title": "Neuroprosthesis converts brain activity to speech.",
+    "date": "2025-05-14",
+    "volume": "10",
+    "issue": "102",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads6437",
+    "title": "Embodied manipulation with past and future morphologies through an open parametric hand design.",
+    "date": "2025-05-14",
+    "volume": "10",
+    "issue": "102",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adq6784",
+    "title": "Reverse engineering the control law for schooling in zebrafish using virtual reality.",
+    "date": "2025-04-30",
+    "volume": "10",
+    "issue": "101",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr6125",
+    "title": "Achieving animal endurance in robots through advanced energy storage.",
+    "date": "2025-04-30",
+    "volume": "10",
+    "issue": "101",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ady2833",
+    "title": "Adaptive active solids.",
+    "date": "2025-04-30",
+    "volume": "10",
+    "issue": "101",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adw8581",
+    "title": "Swimming in the \"Matrix\": VR fish pass the Turing test using a simple control law for collective behavior.",
+    "date": "2025-04-30",
+    "volume": "10",
+    "issue": "101",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adq3121",
+    "title": "Reversible kink instability drives ultrafast jumping in nematodes and soft robots.",
+    "date": "2025-04-23",
+    "volume": "10",
+    "issue": "101",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado6251",
+    "title": "Aerial additive manufacturing: Toward on-site building construction with aerial robots.",
+    "date": "2025-04-23",
+    "volume": "10",
+    "issue": "101",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ady1403",
+    "title": "Biohybrid robot contracts like the human iris.",
+    "date": "2025-04-23",
+    "volume": "10",
+    "issue": "101",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp9905",
+    "title": "Unlocking aerobatic potential of quadcopters: Autonomous freestyle flight generation and execution.",
+    "date": "2025-04-16",
+    "volume": "10",
+    "issue": "101",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adq3059",
+    "title": "Sticking the landing: Insect-inspired strategies for safely landing flapping-wing aerial microrobots.",
+    "date": "2025-04-16",
+    "volume": "10",
+    "issue": "101",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adx2410",
+    "title": "Robotics in Africa is trending upward and has a bright future.",
+    "date": "2025-04-16",
+    "volume": "10",
+    "issue": "101",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adl2976",
+    "title": "Autonomous robotic organizations for marine operations.",
+    "date": "2025-03-26",
+    "volume": "10",
+    "issue": "100",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adx2364",
+    "title": "Harnessing emotion and intonation in speech to improve robot acceptance.",
+    "date": "2025-03-26",
+    "volume": "10",
+    "issue": "100",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adx3476",
+    "title": "Erratum for the Research Article \"Safety-assured high-speed navigation for MAVs\" by Y. Ren <i>et al</i>.",
+    "date": "2025-03-26",
+    "volume": "10",
+    "issue": "100",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adk4249",
+    "title": "Magnetically actuated dexterous tools for minimally invasive operation inside the brain.",
+    "date": "2025-03-26",
+    "volume": "10",
+    "issue": "100",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adq4198",
+    "title": "Harnessing the oloid shape in magnetically driven robots to enable high-resolution ultrasound imaging.",
+    "date": "2025-03-26",
+    "volume": "10",
+    "issue": "100",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adq1949",
+    "title": "Monopedal robot branch-to-branch leaping and landing inspired by squirrel balance control.",
+    "date": "2025-03-19",
+    "volume": "10",
+    "issue": "100",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp7821",
+    "title": "Miniature deep-sea morphable robot with multimodal locomotion.",
+    "date": "2025-03-19",
+    "volume": "10",
+    "issue": "100",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads0548",
+    "title": "Bridging hard and soft: Mechanical metamaterials enable rigid torque transmission in soft robots.",
+    "date": "2025-03-19",
+    "volume": "10",
+    "issue": "100",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adw9921",
+    "title": "Worm-like robot with integrated modular power.",
+    "date": "2025-03-19",
+    "volume": "10",
+    "issue": "100",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adn5564",
+    "title": "Augmenting rehabilitation robotics with spinal cord neuromodulation: A proof of concept.",
+    "date": "2025-03-12",
+    "volume": "10",
+    "issue": "100",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adk3307",
+    "title": "Social robots as conversational catalysts: Enhancing long-term human-human interaction at home.",
+    "date": "2025-03-12",
+    "volume": "10",
+    "issue": "100",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adw4932",
+    "title": "Wearable robot provides lumbar and arm support.",
+    "date": "2025-02-26",
+    "volume": "10",
+    "issue": "99",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adq1703",
+    "title": "Virtual elasto-plastic robot compliance to active environments.",
+    "date": "2025-02-26",
+    "volume": "10",
+    "issue": "99",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp6419",
+    "title": "Robotic locomotion through active and passive morphological adaptation in extreme outdoor environments.",
+    "date": "2025-02-26",
+    "volume": "10",
+    "issue": "99",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp7854",
+    "title": "A springtail-inspired multimodal walking-jumping microrobot.",
+    "date": "2025-02-26",
+    "volume": "10",
+    "issue": "99",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adq0192",
+    "title": "Telesurgery and the importance of context.",
+    "date": "2025-02-26",
+    "volume": "10",
+    "issue": "99",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adw1608",
+    "title": "It is hard to be a robot in the wild.",
+    "date": "2025-02-19",
+    "volume": "10",
+    "issue": "99",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adw3630",
+    "title": "Restoration of tactile sensation in bionic hands.",
+    "date": "2025-02-19",
+    "volume": "10",
+    "issue": "99",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr0721",
+    "title": "Highly agile flat swimming robot.",
+    "date": "2025-02-19",
+    "volume": "10",
+    "issue": "99",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp7700",
+    "title": "Head-mounted surgical robots are an enabling technology for subretinal injections.",
+    "date": "2025-02-19",
+    "volume": "10",
+    "issue": "99",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr2708",
+    "title": "A democratized bimodal model of research for soft robotics: Integrating slow and fast science.",
+    "date": "2025-02-19",
+    "volume": "10",
+    "issue": "99",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr5512",
+    "title": "Biohybrid hand actuated by multiple human muscle tissues.",
+    "date": "2025-02-12",
+    "volume": "10",
+    "issue": "99",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr6472",
+    "title": "Bioinspired design of a tissue-engineered ray with machine learning.",
+    "date": "2025-02-12",
+    "volume": "10",
+    "issue": "99",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adv7933",
+    "title": "Light-emitting, self-healing robotic fibers.",
+    "date": "2025-01-29",
+    "volume": "10",
+    "issue": "98",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp5005",
+    "title": "The case against machine vision for the control of wearable robotics: Challenges for commercial adoption.",
+    "date": "2025-01-29",
+    "volume": "10",
+    "issue": "98",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado7696",
+    "title": "A hyperelastic torque-reversal mechanism for soft joints with compression-responsive transient bistability.",
+    "date": "2025-01-29",
+    "volume": "10",
+    "issue": "98",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado6187",
+    "title": "Safety-assured high-speed navigation for MAVs.",
+    "date": "2025-01-29",
+    "volume": "10",
+    "issue": "98",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp2356",
+    "title": "A neuromechanics solution for adjustable robot compliance and accuracy.",
+    "date": "2025-01-22",
+    "volume": "10",
+    "issue": "98",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp0751",
+    "title": "Development of compositionality through interactive learning of language and action of robots.",
+    "date": "2025-01-22",
+    "volume": "10",
+    "issue": "98",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adv4627",
+    "title": "Humanoid robot learning of complex behaviors with LLMs.",
+    "date": "2025-01-22",
+    "volume": "10",
+    "issue": "98",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adv3128",
+    "title": "Would a robot ever get angry enough to attack a person?",
+    "date": "2025-01-22",
+    "volume": "10",
+    "issue": "98",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp4256",
+    "title": "Acrobatics at the insect scale: A durable, precise, and agile micro-aerial robot.",
+    "date": "2025-01-15",
+    "volume": "10",
+    "issue": "98",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado9509",
+    "title": "Merging motoneuron and postural synergies in prosthetic hand design for natural bionic interfacing.",
+    "date": "2025-01-15",
+    "volume": "10",
+    "issue": "98",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adn3802",
+    "title": "Surmounting the ceiling effect of motor expertise by novel sensory experience with a hand exoskeleton.",
+    "date": "2025-01-15",
+    "volume": "10",
+    "issue": "98",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu7713",
+    "title": "A call for diversity, equity, and inclusion in robotics.",
+    "date": "2024-12-18",
+    "volume": "9",
+    "issue": "97",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado5888",
+    "title": "Counterfactual rewards promote collective transport using individually controlled swarm microrobots.",
+    "date": "2024-12-18",
+    "volume": "9",
+    "issue": "97",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado3887",
+    "title": "Haptiknit: Distributed stiffness knitting for wearable haptics.",
+    "date": "2024-12-18",
+    "volume": "9",
+    "issue": "97",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu7152",
+    "title": "Erratum for the Research Article \"Restoration of grasping in an upper limb amputee using the myokinetic prosthesis with implanted magnets\" by M. Gherardini et al.",
+    "date": "2024-12-18",
+    "volume": "9",
+    "issue": "97",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu0391",
+    "title": "Overcoming the challenges that women in robotics face.",
+    "date": "2024-12-18",
+    "volume": "9",
+    "issue": "97",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu6332",
+    "title": "Even teleoperated robots are discriminated against in science fictions.",
+    "date": "2024-12-18",
+    "volume": "9",
+    "issue": "97",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt1958",
+    "title": "Accelerating the pace of innovation in robotics by fostering diversity and inclusive leadership.",
+    "date": "2024-12-11",
+    "volume": "9",
+    "issue": "97",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu2915",
+    "title": "Black in Robotics: Improving community and equity in the field of robotics.",
+    "date": "2024-12-11",
+    "volume": "9",
+    "issue": "97",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado3939",
+    "title": "MOGrip: Gripper for multiobject grasping in pick-and-place tasks using translational movements of fingers.",
+    "date": "2024-12-11",
+    "volume": "9",
+    "issue": "97",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp3593",
+    "title": "Imaging-guided bioresorbable acoustic hydrogel microrobots.",
+    "date": "2024-12-11",
+    "volume": "9",
+    "issue": "97",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adn4542",
+    "title": "Upgrading and extending the life cycle of soft robots with in situ free-form liquid three-dimensional printing.",
+    "date": "2024-12-04",
+    "volume": "9",
+    "issue": "97",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu0906",
+    "title": "Promoting diverse and inclusive spaces with intentionality.",
+    "date": "2024-12-04",
+    "volume": "9",
+    "issue": "97",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adu2844",
+    "title": "The cold truth about robotics research in the United Kingdom as a Caribbean woman.",
+    "date": "2024-12-04",
+    "volume": "9",
+    "issue": "97",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado1010",
+    "title": "Monte Carlo tree search with spectral expansion for planning with dynamical systems.",
+    "date": "2024-12-04",
+    "volume": "9",
+    "issue": "97",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi2084",
+    "title": "Bioinspired designer DNA NanoGripper for virus sensing and potential inhibition.",
+    "date": "2024-11-27",
+    "volume": "9",
+    "issue": "96",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adn8067",
+    "title": "Coordinated behavior of autonomous microscopic machines through local electronic pulse coupling.",
+    "date": "2024-11-27",
+    "volume": "9",
+    "issue": "96",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp2309",
+    "title": "Reconfigurable nanomaterials folded from multicomponent chains of DNA origami voxels.",
+    "date": "2024-11-27",
+    "volume": "9",
+    "issue": "96",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adl0842",
+    "title": "The force has limits: Molecular motors in robotics.",
+    "date": "2024-11-27",
+    "volume": "9",
+    "issue": "96",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado4535",
+    "title": "Bird-inspired reflexive morphing enables rudderless flight.",
+    "date": "2024-11-20",
+    "volume": "9",
+    "issue": "96",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado3890",
+    "title": "A twist of the tail in turning maneuvers of bird-inspired drones.",
+    "date": "2024-11-20",
+    "volume": "9",
+    "issue": "96",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adg1842",
+    "title": "Cybernetic avatars: Teleoperation technologies from in-body monitoring to social interaction.",
+    "date": "2024-11-20",
+    "volume": "9",
+    "issue": "96",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado5566",
+    "title": "Robots and animals teaming up in the wild to tackle ecosystem challenges.",
+    "date": "2024-11-20",
+    "volume": "9",
+    "issue": "96",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp2507",
+    "title": "Crucial hurdles to achieving human-robot harmony.",
+    "date": "2024-11-13",
+    "volume": "9",
+    "issue": "96",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt8902",
+    "title": "How much initiative should a service robot have?",
+    "date": "2024-11-13",
+    "volume": "9",
+    "issue": "96",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adl5161",
+    "title": "Self-organizing nervous systems for robot swarms.",
+    "date": "2024-11-13",
+    "volume": "9",
+    "issue": "96",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adl0628",
+    "title": "NeuralFeels with neural fields: Visuotactile perception for in-hand manipulation.",
+    "date": "2024-11-13",
+    "volume": "9",
+    "issue": "96",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt3842",
+    "title": "Advancing scientific discovery with the aid of robotics.",
+    "date": "2024-10-30",
+    "volume": "9",
+    "issue": "95",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr5247",
+    "title": "Augmented dexterity: How robots can enhance human surgical skills.",
+    "date": "2024-10-30",
+    "volume": "9",
+    "issue": "95",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adn2733",
+    "title": "Understanding the sense of self through robotics.",
+    "date": "2024-10-30",
+    "volume": "9",
+    "issue": "95",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adn7299",
+    "title": "Reinforcement learning-based framework for whale rendezvous via autonomous sensing robots.",
+    "date": "2024-10-30",
+    "volume": "9",
+    "issue": "95",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt1955",
+    "title": "AI-driven aerial robots advance whale research.",
+    "date": "2024-10-30",
+    "volume": "9",
+    "issue": "95",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adn1125",
+    "title": "Paleoinspired robotics as an experimental approach to the history of life.",
+    "date": "2024-10-23",
+    "volume": "9",
+    "issue": "95",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adm8233",
+    "title": "Robotic manipulation of cardiomyocytes to identify gap junction modifiers for arrhythmogenic cardiomyopathy.",
+    "date": "2024-10-23",
+    "volume": "9",
+    "issue": "95",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adm6991",
+    "title": "Transforming science labs into automated factories of discovery.",
+    "date": "2024-10-23",
+    "volume": "9",
+    "issue": "95",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt3828",
+    "title": "Ted Chiang imagines a computational theory of robots.",
+    "date": "2024-10-23",
+    "volume": "9",
+    "issue": "95",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adn6848",
+    "title": "Autonomous tracking of honey bee behaviors over long-term periods with cooperating robots.",
+    "date": "2024-10-16",
+    "volume": "9",
+    "issue": "95",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adm7689",
+    "title": "High-resolution outdoor videography of insects using Fast Lock-On tracking.",
+    "date": "2024-10-16",
+    "volume": "9",
+    "issue": "95",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adm7965",
+    "title": "High-tech guardians: Robotics at the heart of the Future Circular Collider.",
+    "date": "2024-10-16",
+    "volume": "9",
+    "issue": "95",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads4127",
+    "title": "Float like a butterfly, swim like a biohybrid neuromuscular robot.",
+    "date": "2024-09-25",
+    "volume": "9",
+    "issue": "94",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr9299",
+    "title": "Taking control: Steering the future of biohybrid robots.",
+    "date": "2024-09-25",
+    "volume": "9",
+    "issue": "94",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado0051",
+    "title": "Wirelessly steerable bioelectronic neuromuscular robots adapting neurocardiac junctions.",
+    "date": "2024-09-25",
+    "volume": "9",
+    "issue": "94",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado4553",
+    "title": "Soft robotic artificial left ventricle simulator capable of reproducing myocardial biomechanics.",
+    "date": "2024-09-25",
+    "volume": "9",
+    "issue": "94",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads6559",
+    "title": "Machine learning, robots, and abuse of power.",
+    "date": "2024-09-25",
+    "volume": "9",
+    "issue": "94",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr8282",
+    "title": "A versatile knee exoskeleton mitigates quadriceps fatigue in lifting, lowering, and carrying tasks.",
+    "date": "2024-09-18",
+    "volume": "9",
+    "issue": "94",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adl3546",
+    "title": "Hexagonal electrohydraulic modules for rapidly reconfigurable high-speed robots.",
+    "date": "2024-09-18",
+    "volume": "9",
+    "issue": "94",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adt0930",
+    "title": "Social robot for at-home cognitive monitoring.",
+    "date": "2024-09-18",
+    "volume": "9",
+    "issue": "94",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp3260",
+    "title": "Restoration of grasping in an upper limb amputee using the myokinetic prosthesis with implanted magnets.",
+    "date": "2024-09-11",
+    "volume": "9",
+    "issue": "94",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adn6844",
+    "title": "Stretchable Arduinos embedded in soft robots.",
+    "date": "2024-09-11",
+    "volume": "9",
+    "issue": "94",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads9444",
+    "title": "Visual seafloor mapping with autonomous robots.",
+    "date": "2024-09-11",
+    "volume": "9",
+    "issue": "94",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr9557",
+    "title": "Real-world exoskeletons are better than those in the movie Atlas.",
+    "date": "2024-08-28",
+    "volume": "9",
+    "issue": "93",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads6194",
+    "title": "Collection of microrobots for gentle cell manipulation.",
+    "date": "2024-08-28",
+    "volume": "9",
+    "issue": "93",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adk8019",
+    "title": "Sensorimotor control of robots mediated by electrophysiological measurements of fungal mycelia.",
+    "date": "2024-08-28",
+    "volume": "9",
+    "issue": "93",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adn4722",
+    "title": "Online tree-based planning for active spacecraft fault estimation and collision avoidance.",
+    "date": "2024-08-28",
+    "volume": "9",
+    "issue": "93",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adn4008",
+    "title": "Intrinsic sense of touch for intuitive physical human-robot interaction.",
+    "date": "2024-08-21",
+    "volume": "9",
+    "issue": "93",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads4122",
+    "title": "Bilingual speech neuroprosthesis.",
+    "date": "2024-08-21",
+    "volume": "9",
+    "issue": "93",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adm8484",
+    "title": "Bistable soft jumper capable of fast response and high takeoff velocity.",
+    "date": "2024-08-21",
+    "volume": "9",
+    "issue": "93",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adl2067",
+    "title": "Variable-stiffness-morphing wheel inspired by the surface tension of a liquid droplet.",
+    "date": "2024-08-14",
+    "volume": "9",
+    "issue": "93",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ade4642",
+    "title": "High energy density picoliter-scale zinc-air microbatteries for colloidal robotics.",
+    "date": "2024-08-14",
+    "volume": "9",
+    "issue": "93",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr9645",
+    "title": "Robot behavior that can adapt to user interaction.",
+    "date": "2024-07-31",
+    "volume": "9",
+    "issue": "92",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr7180",
+    "title": "Erratum for the Research Article \"Excitation of natural spinal reflex loops in the sensory-motor control of hand prostheses\" by P. G. Sagastegui Alva et al.",
+    "date": "2024-07-31",
+    "volume": "9",
+    "issue": "92",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adk7913",
+    "title": "Field deployment of Wolbachia-infected Aedes aegypti using uncrewed aerial vehicle.",
+    "date": "2024-07-31",
+    "volume": "9",
+    "issue": "92",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr2950",
+    "title": "Would robots really bother with a bloody uprising?",
+    "date": "2024-07-31",
+    "volume": "9",
+    "issue": "92",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adj6261",
+    "title": "Upscaling the production of sterile male mosquitoes with an automated pupa sex sorter.",
+    "date": "2024-07-31",
+    "volume": "9",
+    "issue": "92",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr0224",
+    "title": "Virus-blocking mosquitoes take flight in the fight against dengue.",
+    "date": "2024-07-31",
+    "volume": "9",
+    "issue": "92",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adk6717",
+    "title": "Bilateral Back Extensor Exosuit for multidimensional assistance and prevention of spinal injuries.",
+    "date": "2024-07-24",
+    "volume": "9",
+    "issue": "92",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adk9978",
+    "title": "Multimodal soft valve enables physical responsiveness for preemptive resilience of soft robots.",
+    "date": "2024-07-24",
+    "volume": "9",
+    "issue": "92",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr8263",
+    "title": "Web-based distributed robot localization.",
+    "date": "2024-07-24",
+    "volume": "9",
+    "issue": "92",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adk6664",
+    "title": "Merging sociality and robotics through an evolutionary perspective.",
+    "date": "2024-07-24",
+    "volume": "9",
+    "issue": "92",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adk4533",
+    "title": "Crawling, climbing, perching, and flying by FiBa soft robots.",
+    "date": "2024-07-17",
+    "volume": "9",
+    "issue": "92",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adl0307",
+    "title": "Scale-inspired programmable robotic structures with concurrent shape morphing and stiffness variation.",
+    "date": "2024-07-17",
+    "volume": "9",
+    "issue": "92",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adk0310",
+    "title": "Visual route following for tiny autonomous robots.",
+    "date": "2024-07-17",
+    "volume": "9",
+    "issue": "92",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adq6387",
+    "title": "Ironies of social robotics.",
+    "date": "2024-06-26",
+    "volume": "9",
+    "issue": "91",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adq1501",
+    "title": "The future lies in a pair of tactile hands.",
+    "date": "2024-06-26",
+    "volume": "9",
+    "issue": "91",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adj3665",
+    "title": "When performing actions with robots, attribution of intentionality affects the sense of joint agency.",
+    "date": "2024-06-26",
+    "volume": "9",
+    "issue": "91",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adr0223",
+    "title": "Erratum for the Research Article \"Fully neuromorphic vision and control for autonomous drone flight\" by F. Paredes-Vallés et al.",
+    "date": "2024-06-26",
+    "volume": "9",
+    "issue": "91",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi8808",
+    "title": "SimPLE, a visuotactile method learned in simulation to precisely pick, localize, regrasp, and place objects.",
+    "date": "2024-06-26",
+    "volume": "9",
+    "issue": "91",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adq6361",
+    "title": "Would you risk humanity's survival on a robot built in two years?",
+    "date": "2024-06-26",
+    "volume": "9",
+    "issue": "91",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adl2007",
+    "title": "Biohybrid microrobots regulate colonic cytokines and the epithelium barrier in inflammatory bowel disease.",
+    "date": "2024-06-26",
+    "volume": "9",
+    "issue": "91",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi6421",
+    "title": "Optimality principles in spacecraft neural guidance and control.",
+    "date": "2024-06-19",
+    "volume": "9",
+    "issue": "91",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adl1995",
+    "title": "The role of low-cost robots in the future of spaceflight.",
+    "date": "2024-06-19",
+    "volume": "9",
+    "issue": "91",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi2377",
+    "title": "A portable inflatable soft wearable robot to assist the shoulder during industrial work.",
+    "date": "2024-06-12",
+    "volume": "9",
+    "issue": "91",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi6424",
+    "title": "Exploring beyond Earth using space robotics.",
+    "date": "2024-06-19",
+    "volume": "9",
+    "issue": "91",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adk3925",
+    "title": "Conductive block copolymer elastomers and psychophysical thresholding for accurate haptic effects.",
+    "date": "2024-06-12",
+    "volume": "9",
+    "issue": "91",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adj9769",
+    "title": "Soft robotic platform for progressive and reversible aortic constriction in a small-animal model.",
+    "date": "2024-06-12",
+    "volume": "9",
+    "issue": "91",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp5682",
+    "title": "Avian eye-inspired artificial vision takes a step forward.",
+    "date": "2024-05-29",
+    "volume": "9",
+    "issue": "90",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adl0085",
+    "title": "Excitation of natural spinal reflex loops in the sensory-motor control of hand prostheses.",
+    "date": "2024-05-29",
+    "volume": "9",
+    "issue": "90",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adk5183",
+    "title": "Evaluating initial usability of a hand augmentation device across a large and diverse sample.",
+    "date": "2024-05-29",
+    "volume": "9",
+    "issue": "90",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adk6903",
+    "title": "Avian eye-inspired perovskite artificial vision system for foveated and multispectral imaging.",
+    "date": "2024-05-29",
+    "volume": "9",
+    "issue": "90",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado9987",
+    "title": "A guiding light for stimulating paralyzed muscles.",
+    "date": "2024-05-22",
+    "volume": "9",
+    "issue": "90",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adj8124",
+    "title": "Microsaccade-inspired event camera for robotics.",
+    "date": "2024-05-29",
+    "volume": "9",
+    "issue": "90",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adl3606",
+    "title": "Stereoscopic artificial compound eyes for spatiotemporal perception in three-dimensional space.",
+    "date": "2024-05-15",
+    "volume": "9",
+    "issue": "90",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adj8812",
+    "title": "Wearable robots for the real world need vision.",
+    "date": "2024-05-22",
+    "volume": "9",
+    "issue": "90",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi8995",
+    "title": "Closed-loop optogenetic neuromodulation enables high-fidelity fatigue-resistant muscle control.",
+    "date": "2024-05-22",
+    "volume": "9",
+    "issue": "90",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi8666",
+    "title": "An ultrawide field-of-view pinhole compound eye using hemispherical nanowire array for robot vision.",
+    "date": "2024-05-15",
+    "volume": "9",
+    "issue": "90",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp8107",
+    "title": "What to give your robot mother on Mother's Day.",
+    "date": "2024-05-15",
+    "volume": "9",
+    "issue": "90",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi0591",
+    "title": "Fully neuromorphic vision and control for autonomous drone flight.",
+    "date": "2024-05-15",
+    "volume": "9",
+    "issue": "90",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi9641",
+    "title": "Learning robust autonomous navigation and locomotion for wheeled-legged robots.",
+    "date": "2024-04-24",
+    "volume": "9",
+    "issue": "89",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp3679",
+    "title": "Legged robots take a leap forward.",
+    "date": "2024-04-24",
+    "volume": "9",
+    "issue": "89",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi9754",
+    "title": "Why animals can outrun robots.",
+    "date": "2024-04-24",
+    "volume": "9",
+    "issue": "89",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp3677",
+    "title": "Robot pack mules remain science fiction for now.",
+    "date": "2024-04-24",
+    "volume": "9",
+    "issue": "89",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp1956",
+    "title": "Legged robots beyond bioinspiration.",
+    "date": "2024-04-24",
+    "volume": "9",
+    "issue": "89",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp8528",
+    "title": "Grasping objects with the aid of haptics.",
+    "date": "2024-04-24",
+    "volume": "9",
+    "issue": "89",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp7392",
+    "title": "Using machine learning and robotics to discover plastic substitutes.",
+    "date": "2024-04-17",
+    "volume": "9",
+    "issue": "89",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi9762",
+    "title": "Locomotion as manipulation with ReachBot.",
+    "date": "2024-04-17",
+    "volume": "9",
+    "issue": "89",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi9579",
+    "title": "Real-world humanoid locomotion with reinforcement learning.",
+    "date": "2024-04-17",
+    "volume": "9",
+    "issue": "89",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi8022",
+    "title": "Learning agile soccer skills for a bipedal robot with deep reinforcement learning.",
+    "date": "2024-04-10",
+    "volume": "9",
+    "issue": "89",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi8912",
+    "title": "An agile monopedal hopping quadcopter with synergistic hybrid locomotion.",
+    "date": "2024-04-10",
+    "volume": "9",
+    "issue": "89",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp3707",
+    "title": "Restoration of motor function using magnetoelectric metamaterials.",
+    "date": "2024-03-27",
+    "volume": "9",
+    "issue": "88",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado5755",
+    "title": "Teaching robots the art of human social synchrony.",
+    "date": "2024-03-27",
+    "volume": "9",
+    "issue": "88",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado7982",
+    "title": "A fictional history of robotics features forgotten real-world robots.",
+    "date": "2024-03-27",
+    "volume": "9",
+    "issue": "88",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi4724",
+    "title": "Human-robot facial coexpression.",
+    "date": "2024-03-27",
+    "volume": "9",
+    "issue": "88",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adp1760",
+    "title": "Safe radiation surveillance using uncrewed vehicles.",
+    "date": "2024-03-20",
+    "volume": "9",
+    "issue": "88",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adj7246",
+    "title": "Elastic energy-recycling actuators for efficient robots.",
+    "date": "2024-03-20",
+    "volume": "9",
+    "issue": "88",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi8852",
+    "title": "Estimating human joint moments unifies exoskeleton control, reducing user effort.",
+    "date": "2024-03-20",
+    "volume": "9",
+    "issue": "88",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi7566",
+    "title": "ANYmal parkour: Learning agile navigation for quadrupedal robots.",
+    "date": "2024-03-13",
+    "volume": "9",
+    "issue": "88",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adh8332",
+    "title": "EELS: Autonomous snake-like robot with task and motion planning capabilities for ice world exploration.",
+    "date": "2024-03-13",
+    "volume": "9",
+    "issue": "88",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi5155",
+    "title": "Wireless flow-powered miniature robot capable of traversing tubular structures.",
+    "date": "2024-03-13",
+    "volume": "9",
+    "issue": "88",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adh8170",
+    "title": "An ingestible self-propelling device for intestinal reanimation.",
+    "date": "2024-02-28",
+    "volume": "9",
+    "issue": "87",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado8051",
+    "title": "Performing forceful robot manipulation tasks.",
+    "date": "2024-02-28",
+    "volume": "9",
+    "issue": "87",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado3194",
+    "title": "Magnetic robots make headway in medicine.",
+    "date": "2024-02-28",
+    "volume": "9",
+    "issue": "87",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado3187",
+    "title": "Remote magnetic navigation enables precision telesurgery.",
+    "date": "2024-02-28",
+    "volume": "9",
+    "issue": "87",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adh2479",
+    "title": "Magnetic soft microfiberbots for robotic embolization.",
+    "date": "2024-02-21",
+    "volume": "9",
+    "issue": "87",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado6856",
+    "title": "Tracking hand movements with a smart glove.",
+    "date": "2024-02-21",
+    "volume": "9",
+    "issue": "87",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adh1978",
+    "title": "Tracking and navigation of a microswarm under laser speckle contrast imaging for targeted delivery.",
+    "date": "2024-02-21",
+    "volume": "9",
+    "issue": "87",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado1489",
+    "title": "Early science fiction got microbots surprisingly right.",
+    "date": "2024-02-21",
+    "volume": "9",
+    "issue": "87",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adh8702",
+    "title": "Human-scale navigation of magnetic microrobots in hepatic arteries.",
+    "date": "2024-02-14",
+    "volume": "9",
+    "issue": "87",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adh0298",
+    "title": "Dexterous helical magnetic robot for improved endovascular access.",
+    "date": "2024-02-14",
+    "volume": "9",
+    "issue": "87",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adh4060",
+    "title": "3D-printed digital pneumatic logic for the control of soft robotic actuators.",
+    "date": "2024-01-31",
+    "volume": "9",
+    "issue": "86",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adn6096",
+    "title": "What will robots think of us?",
+    "date": "2024-01-31",
+    "volume": "9",
+    "issue": "86",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado2404",
+    "title": "Overcoming adversaries in multirobot navigation.",
+    "date": "2024-01-31",
+    "volume": "9",
+    "issue": "86",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.ado1003",
+    "title": "Robots can motivate children to practice piano.",
+    "date": "2024-01-24",
+    "volume": "9",
+    "issue": "86",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adh3834",
+    "title": "iCub3 avatar system: Enabling remote fully immersive embodiment of humanoid robots.",
+    "date": "2024-01-24",
+    "volume": "9",
+    "issue": "86",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adn6035",
+    "title": "Robot swarms meet soft matter physics.",
+    "date": "2024-01-24",
+    "volume": "9",
+    "issue": "86",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adh5401",
+    "title": "DTC: Deep Tracking Control.",
+    "date": "2024-01-17",
+    "volume": "9",
+    "issue": "86",
+    "decision": "include",
+    "reason": "Included: learning-based robot capability or relevant review/perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adh4130",
+    "title": "A self-organizing robotic aggregate using solid and liquid-like collective states.",
+    "date": "2024-01-24",
+    "volume": "9",
+    "issue": "86",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi2746",
+    "title": "Ultralight, strong, and self-reprogrammable mechanical metamaterials.",
+    "date": "2024-01-17",
+    "volume": "9",
+    "issue": "86",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adi5908",
+    "title": "A growing soft robot with climbing plant-inspired adaptive behaviors for navigation in unstructured environments.",
+    "date": "2024-01-17",
+    "volume": "9",
+    "issue": "86",
+    "decision": "exclude",
+    "reason": "Excluded after title/abstract screening: no central robot-learning contribution, or editorial/highlight/correction rather than research or substantive perspective."
+  },
+  {
+    "doi": "10.1126/scirobotics.adw9925",
+    "title": "Understanding humanoid robots could save your life",
+    "date": "2025-04-23",
+    "volume": "10",
+    "issue": "101",
+    "decision": "exclude",
+    "reason": "Correction or short commentary; outside research/review scope."
+  },
+  {
+    "doi": "10.1126/scirobotics.ads4716",
+    "title": "Erratum for the Research Article “Field deployment of\n                    <i>Wolbachia</i>\n                    -infected\n                    <i>Aedes aegypti</i>\n                    using uncrewed aerial vehicle” by Y.-H. Lin\n                    <i>et al</i>\n                    .",
+    "date": "2024-08-28",
+    "volume": "9",
+    "issue": "93",
+    "decision": "exclude",
+    "reason": "Correction or short commentary; outside research/review scope."
+  }
+]
