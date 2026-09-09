@@ -2,7 +2,7 @@
 
 Robot learning in **Science Robotics**, January 1, 2024 – September 9, 2026.
 
-[**Browse the website →**](https://sr-paper-list.lastyanjieze.chatgpt.site) · [Search & verification notes](SEARCH_NOTES.md) · [Structured data](papers.json)
+[**Browse the website →**](https://sr.yanjieze.com) · [Search & verification notes](SEARCH_NOTES.md) · [Structured data](papers.json)
 
 **68 papers** · 52 research articles · 16 reviews / perspectives · **6 verified cover papers**
 
